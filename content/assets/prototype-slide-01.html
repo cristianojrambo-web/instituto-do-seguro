@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<style>
+  @page { margin: 0; }
+  html, body {
+    margin: 0; padding: 0; width: 1080px; height: 1350px;
+    background-image: url('paper-texture.png');
+    background-size: cover;
+    font-family: Georgia, serif;
+  }
+  .frame {
+    position: relative; width: 1080px; height: 1350px;
+    box-sizing: border-box; padding: 90px 80px;
+  }
+  .letterhead {
+    display: flex; justify-content: space-between; align-items: center;
+    border-bottom: 2px solid #1E1B16; padding-bottom: 14px; margin-bottom: 60px;
+  }
+  .letterhead-mark {
+    font-family: 'Courier New', monospace; font-weight: bold; letter-spacing: 2px;
+    font-size: 22px; color: #1E1B16; text-transform: uppercase;
+  }
+  .letterhead-meta {
+    font-family: 'Courier New', monospace; font-size: 18px; color: #6b6555;
+  }
+  .kicker {
+    font-family: 'Courier New', monospace; font-weight: bold; font-size: 30px;
+    letter-spacing: 4px; text-transform: uppercase; color: #A23B2E;
+    margin-bottom: 46px; display: flex; align-items: center; gap: 16px;
+  }
+  .kicker::before {
+    content: ''; width: 14px; height: 14px; border-radius: 50%; background: #A23B2E;
+  }
+  h1 {
+    font-family: Georgia, serif; font-weight: bold; font-size: 92px; line-height: 1.08;
+    color: #1E1B16; margin: 0; letter-spacing: -1px;
+  }
+  .rule {
+    width: 140px; height: 6px; background: #A47C3B; margin-top: 50px;
+  }
+  .footer {
+    position: absolute; bottom: 70px; left: 80px; right: 80px;
+    display: flex; justify-content: space-between; align-items: center;
+    font-family: 'Courier New', monospace; color: #6b6555; font-size: 24px;
+  }
+</style>
+</head>
+<body>
+  <div class="frame">
+    <div class="letterhead">
+      <div class="letterhead-mark">Instituto do Seguro</div>
+      <div class="letterhead-meta">Nº 002 / 2026</div>
+    </div>
+    <div class="kicker">Mito ou Verdade</div>
+    <h1>Seguro de carro<br>cobre enchente?</h1>
+    <div class="rule"></div>
+    <div class="footer">
+      <span>01 / 05</span>
+      <span>@institutodoseguro</span>
+    </div>
+  </div>
+</body>
+</html>

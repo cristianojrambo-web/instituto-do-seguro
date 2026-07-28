@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<style>
+  html, body {
+    margin: 0; padding: 0; width: 1080px; height: 1350px;
+    background-image: url('paper-texture.png');
+    background-size: cover;
+    font-family: Georgia, serif;
+  }
+  .frame {
+    position: relative; width: 1080px; height: 1350px;
+    box-sizing: border-box; padding: 90px 80px;
+  }
+  .stamp {
+    position: relative;
+    display: inline-block;
+    transform: rotate(-7deg);
+    border: 6px solid #2E5C4E;
+    outline: 2px solid #2E5C4E;
+    outline-offset: 6px;
+    padding: 22px 46px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+  }
+  .stamp::before {
+    content: '';
+    position: absolute; inset: -3px;
+    border: 1px solid #2E5C4E;
+    opacity: 0.5;
+  }
+  .stamp-text {
+    font-family: 'Courier New', monospace; font-weight: bold;
+    font-size: 96px; letter-spacing: 6px; color: #2E5C4E;
+    text-transform: uppercase;
+  }
+  .body-text {
+    font-family: Georgia, serif; font-size: 46px; line-height: 1.45;
+    color: #1E1B16; max-width: 880px;
+  }
+  .body-text b { color: #A23B2E; }
+  .footer {
+    position: absolute; bottom: 70px; left: 80px; right: 80px;
+    display: flex; justify-content: space-between; align-items: center;
+    font-family: 'Courier New', monospace; color: #6b6555; font-size: 24px;
+  }
+</style>
+</head>
+<body>
+  <div class="frame">
+    <div class="stamp"><div class="stamp-text">Verdade</div></div>
+    <div class="body-text">
+      Se você tiver <b>cobertura compreensiva</b> (o "seguro total").
+      Enchente e alagamento por água doce já contam como padrão —
+      não é opcional à parte.
+    </div>
+    <div class="footer">
+      <span>02 / 05</span>
+      <span>@institutodoseguro</span>
+    </div>
+  </div>
+</body>
+</html>

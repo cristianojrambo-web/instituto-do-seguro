@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<style>
+  html, body { margin: 0; padding: 0; width: 1080px; height: 1350px; font-family: 'Segoe UI', sans-serif; }
+  .frame {
+    position: relative; width: 1080px; height: 1350px; overflow: hidden;
+    background: #000;
+  }
+  .bg {
+    position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover;
+  }
+  .scrim-top {
+    position: absolute; top: 0; left: 0; right: 0; height: 340px;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.55), rgba(0,0,0,0));
+  }
+  .scrim-bottom {
+    position: absolute; bottom: 0; left: 0; right: 0; height: 780px;
+    background: linear-gradient(to top, rgba(4,8,20,0.97) 20%, rgba(4,8,20,0.75) 55%, rgba(4,8,20,0));
+  }
+  .tag {
+    position: absolute; top: 64px; left: 64px;
+    background: #FFC93C; color: #14181F; font-weight: 800; font-size: 26px;
+    padding: 12px 26px; border-radius: 6px; letter-spacing: 0.5px;
+  }
+  .bottom-content { position: absolute; bottom: 70px; left: 64px; right: 64px; }
+  h1 {
+    font-size: 78px; font-weight: 800; color: #fff; line-height: 1.06; margin: 0 0 26px 0;
+    letter-spacing: -1px; text-wrap: balance;
+  }
+  h1 .hl { color: #FFC93C; }
+  .sub { font-size: 34px; color: rgba(255,255,255,0.88); font-weight: 500; line-height: 1.4; margin: 0 0 40px 0; }
+  .brandline { display: flex; justify-content: space-between; align-items: center;
+    font-size: 24px; color: rgba(255,255,255,0.65); font-weight: 600; }
+</style>
+</head>
+<body>
+  <div class="frame">
+    <img class="bg" src="ref-pexels-rain.jpg">
+    <div class="scrim-top"></div>
+    <div class="scrim-bottom"></div>
+    <div class="tag">MITO OU VERDADE</div>
+    <div class="bottom-content">
+      <h1>Seu seguro cobre <span class="hl">enchente?</span></h1>
+      <div class="sub">A resposta tem uma pegadinha que pode custar caro.</div>
+      <div class="brandline"><span>@institutodoseguro</span><span>01/05</span></div>
+    </div>
+  </div>
+</body>
+</html>

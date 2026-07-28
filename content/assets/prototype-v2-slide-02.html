@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<style>
+  html, body {
+    margin: 0; padding: 0; width: 1080px; height: 1350px;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  .frame {
+    position: relative; width: 1080px; height: 1350px;
+    box-sizing: border-box; overflow: hidden;
+    background: radial-gradient(circle at 85% 12%, #34C77B 0%, transparent 42%),
+                radial-gradient(circle at 10% 90%, #3E6BFF 0%, transparent 45%),
+                linear-gradient(160deg, #0B1030 0%, #101A4A 45%, #16256B 100%);
+  }
+  .content { position: relative; padding: 100px 76px; height: 100%; box-sizing: border-box;
+    display: flex; flex-direction: column; }
+  .verdict {
+    font-size: 150px; font-weight: 800; letter-spacing: -3px;
+    background: linear-gradient(90deg, #4CE39B 0%, #9CF2C4 100%);
+    -webkit-background-clip: text; background-clip: text; color: transparent;
+    margin: 40px 0 0 0; line-height: 1;
+  }
+  .glass-card {
+    margin-top: 50px;
+    background: rgba(255,255,255,0.10);
+    backdrop-filter: blur(22px);
+    border: 1px solid rgba(255,255,255,0.22);
+    border-radius: 36px;
+    padding: 56px;
+    box-shadow: 0 30px 60px rgba(0,0,0,0.35);
+  }
+  .glass-card p {
+    font-size: 42px; font-weight: 600; line-height: 1.5; color: #FFFFFF; margin: 0;
+  }
+  .glass-card b { color: #7BFFC0; }
+  .footer {
+    margin-top: auto; display: flex; justify-content: space-between; align-items: center;
+    font-size: 26px; color: rgba(255,255,255,0.65); font-weight: 600;
+  }
+  .footer .brand { display: flex; align-items: center; gap: 14px; }
+  .badge {
+    width: 44px; height: 44px; border-radius: 12px;
+    background: rgba(255,255,255,0.14); border: 1px solid rgba(255,255,255,0.3);
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 800; color: #fff; font-size: 20px;
+  }
+</style>
+</head>
+<body>
+  <div class="frame">
+    <div class="content">
+      <div class="verdict">Verdade.</div>
+      <div class="glass-card">
+        <p>Se você tiver <b>cobertura compreensiva</b> — enchente e alagamento por água doce já contam como padrão.</p>
+      </div>
+      <div class="footer">
+        <div class="brand"><div class="badge">IS</div>Instituto do Seguro</div>
+        <span>02/05</span>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
