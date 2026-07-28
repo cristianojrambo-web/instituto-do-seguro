@@ -61,6 +61,7 @@ ligasse de novo. Solução: repositório público no GitHub
 que clonam o repo e rodam independente do computador do usuário.
 
 **O que roda na nuvem agora:**
+- Lembrete de domingo 17:30 BRT (`30 20 * * 0` UTC) — WhatsApp lembrando de ligar o PC antes da geração das 18h (que ainda é local)
 - Lembrete de segunda-feira (WhatsApp via CallMeBot) — cron `30 16 * * 1` UTC (13:30 BRT)
 - As 4 publicações do Lote 1 desta semana (post + story via `scripts/publish_buffer.py`), cada
   uma como rotina `run_once_at` no horário exato, lendo o conteúdo do repositório
