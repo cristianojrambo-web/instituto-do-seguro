@@ -53,6 +53,28 @@ próprio rodando sempre), não valeu a complexidade.
 As Partes 1-4 abaixo (Metricool e API direta da Meta) ficam registradas como histórico —
 não são mais o caminho ativo.
 
+## PLANO D (ATIVO, 2026-07-28) — Migração pra nuvem (RemoteTrigger)
+Motivo: as tarefas agendadas locais (`mcp__scheduled-tasks`) só rodam com o computador ligado e
+o app aberto — se o PC estivesse desligado num horário de post, ele só sairia quando o usuário
+ligasse de novo. Solução: repositório público no GitHub
+(https://github.com/cristianojrambo-web/instituto-do-seguro) + rotinas de nuvem (RemoteTrigger)
+que clonam o repo e rodam independente do computador do usuário.
+
+**O que roda na nuvem agora:**
+- Lembrete de segunda-feira (WhatsApp via CallMeBot) — cron `30 16 * * 1` UTC (13:30 BRT)
+- As 4 publicações do Lote 1 desta semana (post + story via `scripts/publish_buffer.py`), cada
+  uma como rotina `run_once_at` no horário exato, lendo o conteúdo do repositório
+
+**O que continua local (por enquanto):** a geração semanal de conteúdo (domingo 18h,
+`mcp__scheduled-tasks`), porque depende de renderização via Chromium headless (Windows) — mover
+isso pra nuvem exigiria instalar um navegador no ambiente Linux da nuvem, não foi feito ainda.
+**Por isso a tarefa de geração agora faz `git commit` + `git push` ao final** — as rotinas de
+nuvem só enxergam o que estiver no GitHub, não o disco local.
+
+Credenciais (Buffer, CallMeBot) são passadas embutidas no prompt de cada rotina de nuvem (não há
+outro jeito de injetar segredo nesse mecanismo) — aceitável pra uso pessoal, mas vale saber que
+ficam armazenadas do lado do Anthropic associadas à rotina.
+
 ## PLANO B (histórico, substituído pelo Plano C) — Metricool em vez da API direta
 Motivo da troca (2026-07-28): a verificação de conta de desenvolvedor da Meta (Parte 2 abaixo)
 travou num bug conhecido e sem solução publicada (SMS de verificação nunca chega — confirmado
