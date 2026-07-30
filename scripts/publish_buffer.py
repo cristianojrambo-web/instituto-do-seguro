@@ -6,10 +6,14 @@ Uso:
         --caption "texto da legenda" --channel instagram [--due "2026-07-29T19:00:00-03:00"]
 
 Sem --due, publica imediatamente (shareNow). Com --due, agenda pro horário informado
-(ISO 8601 com fuso horário).
+(ISO 8601 com fuso horário) — o Buffer publica sozinho nesse horário, sem depender de
+nenhum gatilho externo no momento exato (schedulingType=automatic).
 
-As imagens são hospedadas temporariamente no litterbox.catbox.moe (anônimo, sem conta)
-só o tempo suficiente pro Buffer buscar e processar — não é armazenamento permanente.
+As imagens são referenciadas via URL pública e PERMANENTE do GitHub (raw.githubusercontent.com,
+repositório público) — não usa mais hospedagem temporária (litterbox), porque posts agendados
+com muita antecedência (ex: 5 dias) passavam do prazo de expiração do link temporário antes do
+Buffer conseguir buscar a imagem na hora certa. Requer que o arquivo já esteja commitado e
+pusheado no repositório.
 """
 
 import argparse
@@ -26,7 +30,7 @@ load_dotenv(os.path.join(ROOT, "config", ".env"))
 
 API_KEY = os.environ.get("BUFFER_API_KEY")
 GRAPHQL_URL = "https://api.buffer.com/graphql"
-LITTERBOX_URL = "https://litterbox.catbox.moe/resources/internals/api.php"
+GITHUB_RAW_BASE = "https://raw.githubusercontent.com/cristianojrambo-web/instituto-do-seguro/main"
 
 CHANNEL_IDS = {
     "instagram": "6a68eeba4b2d03035f58a0e6",
@@ -48,18 +52,17 @@ def gql(query, variables=None):
     return data["data"]
 
 
-def upload_temp(image_path, retention="72h"):
-    with open(image_path, "rb") as f:
-        resp = requests.post(
-            LITTERBOX_URL,
-            data={"reqtype": "fileupload", "time": retention},
-            files={"fileToUpload": f},
-            timeout=60,
+def github_raw_url(local_path):
+    """Converte um caminho local (dentro do repo) na URL pública permanente do GitHub.
+    Falha alto e claro se o arquivo não existir lá (esqueceu de commitar/pushear)."""
+    rel_path = os.path.relpath(os.path.abspath(local_path), ROOT).replace("\\", "/")
+    url = f"{GITHUB_RAW_BASE}/{rel_path}"
+    resp = requests.head(url, timeout=15)
+    if resp.status_code != 200:
+        raise RuntimeError(
+            f"Imagem não encontrada no GitHub (status {resp.status_code}): {url}\n"
+            f"Rodou 'git add -A && git commit && git push' depois de gerar/editar esse arquivo?"
         )
-    resp.raise_for_status()
-    url = resp.text.strip()
-    if not url.startswith("http"):
-        raise RuntimeError(f"Falha no upload temporário: {resp.text}")
     return url
 
 
@@ -146,13 +149,12 @@ def main():
         if len(slide_paths) > 10:
             sys.exit(f"Buffer só aceita até 10 imagens por carrossel ({len(slide_paths)} encontradas)")
 
-    print(f"Subindo {len(slide_paths)} imagens pra hospedagem temporária...")
+    print(f"Resolvendo {len(slide_paths)} imagens via GitHub (URL permanente)...")
     image_urls = []
     for path in slide_paths:
-        url = upload_temp(path)
+        url = github_raw_url(path)
         print(f"  {os.path.basename(path)} -> {url}")
         image_urls.append(url)
-        time.sleep(0.5)
 
     channel_id = CHANNEL_IDS[args.channel]
     print("Criando post no Buffer...")
