@@ -73,11 +73,33 @@ que clonam o repo e rodam independente do computador do usuário.
 - As 4 publicações do Lote 1 desta semana (post + story via `scripts/publish_buffer.py`), cada
   uma como rotina `run_once_at` no horário exato, lendo o conteúdo do repositório
 
-**O que continua local (por enquanto):** a geração semanal de conteúdo (domingo 18h,
-`mcp__scheduled-tasks`), porque depende de renderização via Chromium headless (Windows) — mover
-isso pra nuvem exigiria instalar um navegador no ambiente Linux da nuvem, não foi feito ainda.
-**Por isso a tarefa de geração agora faz `git commit` + `git push` ao final** — as rotinas de
-nuvem só enxergam o que estiver no GitHub, não o disco local.
+## PLANO E (ATIVO, 2026-08-03) — Geração semanal também migrada pra nuvem
+Motivo: na semana de 2026-08-02/03, o lembrete de domingo (17:30 BRT) disparou normalmente, mas
+o usuário não recebeu a mensagem (falha de entrega do WhatsApp/CallMeBot) — sem o aviso, o PC
+não foi ligado, e a tarefa local de geração simplesmente não rodou no horário (só rodou tarde,
+segunda de manhã, sem gerar nada, sem avisar). Causa raiz: a geração dependia do PC ligado
+(Plano D deixava isso de fora por achar que precisava de navegador só existente no Windows).
+
+**Testado e confirmado em 2026-08-03**: o ambiente de nuvem (RemoteTrigger) já tem Chromium
+pré-instalado via Playwright em `/opt/pw-browsers` — só precisa da flag `--no-sandbox` (container
+roda como root). `scripts/render_html.py` foi adaptado pra detectar o ambiente sozinho (Edge no
+Windows local, Chromium na nuvem) — sem regressão no fluxo local, testado nos dois.
+
+**O que mudou:**
+- Nova rotina de nuvem `instituto-do-seguro-lote-semanal-nuvem`, cron `0 21 * * 0` UTC (domingo
+  18h BRT) — mesmas instruções de pesquisa/geração/fact-checking da tarefa local antiga, roda
+  `pip install -r requirements.txt`, cria `config/.env` embutido, gera o lote e faz commit+push.
+  Manda WhatsApp de início (diagnóstico de falha no meio) e de conclusão (sucesso ou erro).
+- Tarefa local `instituto-do-seguro-lote-semanal` (`mcp__scheduled-tasks`) **desativada**
+  (`enabled: false`, não deletada — dá pra reativar se precisar).
+- Lembrete de domingo "ligar o PC" (`instituto-do-seguro-lembrete-domingo-pc`) **desativado** —
+  deixou de fazer sentido, a geração não depende mais do PC ligado.
+- Lembrete de segunda-feira (`instituto-do-seguro-lembrete-segunda`) continua ativo, mas agora
+  verifica de fato se o lote foi gerado (data do último commit na pasta `semana-NN` mais recente)
+  antes de avisar — evita confiar cegamente que "deu tudo certo".
+
+**O que ainda é local:** só a reunião de revisão/aprovação de segunda-feira em si (o usuário abre
+o Claude Code e conversa) — isso é inerentemente humano, não dá (nem faz sentido) automatizar.
 
 Credenciais (Buffer, CallMeBot) são passadas embutidas no prompt de cada rotina de nuvem (não há
 outro jeito de injetar segredo nesse mecanismo) — aceitável pra uso pessoal, mas vale saber que
