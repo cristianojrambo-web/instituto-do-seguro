@@ -189,18 +189,26 @@ o objetivo de baixo esforço. Ver tarefa pendente antes de usar esse CTA em qual
 Piso honesto de tempo do usuário: ~30-40 min/semana + 5-10 min/dia de interação.
 Publicação 100% autônoma sem revisão: não — por política de aprovação e por risco regulatório.
 
-## Horários e calendário semanal (confirmado 2026-07-30, testar e ajustar com dados)
+## Horários e calendário semanal (ajustado 2026-08-03, testar e ajustar com dados)
 Semana de postagem vai de segunda a domingo (sábado pulado) — 6 posts/semana:
 
 | Dia | Horário | Tipo |
 |---|---|---|
-| Segunda | 19h | regular (mesmo dia da reunião de aprovação, sem conflito — reunião é de manhã/cedo) |
+| Segunda | 12h | regular (movido de 19h pra 12h em 2026-08-03 — ver motivo abaixo) |
 | Terça | 12h | regular |
 | Quarta | 19h | regular |
 | Quinta | 12h | regular |
 | Sexta | 19h | regular |
 | Sábado | — | sem post (sinal fraco em todas as fontes pesquisadas) |
 | Domingo | 11h | teste — pilar consumidor, NUNCA papo de corretor |
+
+**Por que Segunda mudou de 19h pra 12h:** o Buffer (plano grátis) limita a conta a 10 posts
+agendados simultaneamente. O fluxo é: reunião de aprovação de manhã/começo da tarde de segunda →
+agenda a semana toda no Buffer logo em seguida. Com o post de Segunda ainda marcado pras 19h,
+o post de Segunda da semana ANTERIOR ainda estava "scheduled" (não tinha saído) na hora de
+agendar a semana nova, ocupando 2 vagas (post + story) e travando o agendamento dos últimos itens
+da semana. Com Segunda às 12h, o post da semana anterior já saiu antes da reunião de aprovação,
+liberando as vagas a tempo.
 
 Revisar após 1 mês de métricas reais do Buffer, principalmente o resultado do teste de domingo.
 

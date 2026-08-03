@@ -50,6 +50,13 @@ Buffer supera o Metricool e o Upload-Post (que tinha cap de 10/mês) pro nosso v
 posts/semana. Postiz também foi avaliado — só é grátis se auto-hospedado (exige servidor
 próprio rodando sempre), não valeu a complexidade.
 
+**Limite descoberto em 2026-08-03**: o plano grátis do Buffer permite no máximo **10 posts
+agendados simultaneamente** na conta toda (feed + Stories contam juntos). Com 6 posts/semana
+(12 itens contando Stories), dá pra travar se o agendamento da semana nova acontecer antes do
+último post da semana anterior sair do ar. Mitigado movendo o post de Segunda de 19h pra 12h
+(ver ESTRATEGIA.md) — assim ele sai antes da reunião de aprovação, liberando vagas a tempo de
+agendar a semana inteira de uma vez.
+
 As Partes 1-4 abaixo (Metricool e API direta da Meta) ficam registradas como histórico —
 não são mais o caminho ativo.
 
