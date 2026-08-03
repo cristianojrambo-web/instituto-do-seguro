@@ -19,13 +19,14 @@ que o @cqcs domina com conteúdo fraco de engajamento).
    salvamentos → comentários → curtidas. Otimizar pra compartilhamento e salvamento,
    nunca pra curtida.
 
-## O sistema de conteúdo (lote semanal de 5 posts)
+## O sistema de conteúdo (lote semanal de 5 posts regulares Seg-Sex + 1 teste de domingo = 6)
 | # | Série | Formato | Público | Função no algoritmo |
 |---|-------|---------|---------|---------------------|
 | 2x | "Mito ou Verdade" / "Isso NÃO é coberto" | Reel | Consumidor | Compartilhamento (choque/alerta) |
 | 1x | "Vale a pena?" (um ramo por semana) | Carrossel | Consumidor | Salvamento (referência) |
 | 1x | Caso real anonimizado (sinistro: pagou ou negou, e por quê) | Reel | Ambos | Comentário (debate) — formato validado no CQCS |
 | 1x | "Papo de Corretor" (bastidor, dado, técnica de venda) | Carrossel | Corretor | Autoridade + nicho B2B |
+| 1x | Teste de domingo (repete um dos pilares consumidor acima) | — | Consumidor | Testar se fim de semana performa bem no nicho |
 
 + Stories diários simples (enquete "mito ou verdade?", caixa de pergunta) — retenção.
 As perguntas recebidas viram pauta do pilar 4 (flywheel: audiência gera conteúdo).
@@ -188,8 +189,20 @@ o objetivo de baixo esforço. Ver tarefa pendente antes de usar esse CTA em qual
 Piso honesto de tempo do usuário: ~30-40 min/semana + 5-10 min/dia de interação.
 Publicação 100% autônoma sem revisão: não — por política de aprovação e por risco regulatório.
 
-## Horários iniciais (testar e ajustar com dados)
-- Seg/Qua/Sex 19h; Ter/Qui 12h (padrões BR) — revisar após 1 mês de métricas.
+## Horários e calendário semanal (confirmado 2026-07-30, testar e ajustar com dados)
+Semana de postagem vai de segunda a domingo (sábado pulado) — 6 posts/semana:
+
+| Dia | Horário | Tipo |
+|---|---|---|
+| Segunda | 19h | regular (mesmo dia da reunião de aprovação, sem conflito — reunião é de manhã/cedo) |
+| Terça | 12h | regular |
+| Quarta | 19h | regular |
+| Quinta | 12h | regular |
+| Sexta | 19h | regular |
+| Sábado | — | sem post (sinal fraco em todas as fontes pesquisadas) |
+| Domingo | 11h | teste — pilar consumidor, NUNCA papo de corretor |
+
+Revisar após 1 mês de métricas reais do Buffer, principalmente o resultado do teste de domingo.
 
 ## Compliance (inegociável)
 - Post fixado deixando claro: iniciativa privada de conteúdo educativo, sem vínculo com
