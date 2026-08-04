@@ -101,6 +101,15 @@ Windows local, Chromium na nuvem) — sem regressão no fluxo local, testado nos
 **O que ainda é local:** só a reunião de revisão/aprovação de segunda-feira em si (o usuário abre
 o Claude Code e conversa) — isso é inerentemente humano, não dá (nem faz sentido) automatizar.
 
+## PLANO F (ATIVO, 2026-08-04) — Check-in diário de publicação por WhatsApp
+Motivo: a confirmação por WhatsApp depois que um post realmente sai do ar tinha sido combinada
+várias vezes, mas nunca virou uma rotina permanente — só existiam avisos manuais enviados nessa
+conversa. Criada a rotina de nuvem `instituto-do-seguro-checkin-diario`, cron `0 0 * * 1-6` UTC
+(21h BRT, todo dia exceto sábado — cobre Seg/Ter/Qua/Qui/Sex/Dom, que são os dias com post).
+Ela consulta o Buffer pelos posts com `dueAt` nas últimas ~30h, confere o `status` real
+(`sent`/`error`), e manda um resumo por WhatsApp — só avisa se havia algo esperado pra aquele
+dia, e destaca claramente se algo falhou (`status: error`).
+
 Credenciais (Buffer, CallMeBot) são passadas embutidas no prompt de cada rotina de nuvem (não há
 outro jeito de injetar segredo nesse mecanismo) — aceitável pra uso pessoal, mas vale saber que
 ficam armazenadas do lado do Anthropic associadas à rotina.
