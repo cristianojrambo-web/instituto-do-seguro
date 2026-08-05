@@ -31,4 +31,37 @@ possível, indicar uma ação concreta pro nosso conteúdo (não só "isso é um
 
 ---
 
+## Benchmark — maiores contas do nicho (levantado em 2026-08-05)
+
+**Educação financeira geral (referência de escala, não concorrente direto):**
+| Conta | Seguidores IG | Posicionamento |
+|---|---|---|
+| Thiago Nigro (Primo Rico) | 11M+ | Maior finfluencer do mundo |
+| Nathalia Arcuri (Me Poupe!) | 4M | Maior plataforma de educação financeira do Brasil |
+| Eduardo Feldberg (Primo Pobre) | 3M | Educador financeiro |
+| Nath Finanças | 575K | "Finanças de verdade pra gente de verdade" — posicionamento popular/acessível |
+| Thiago Godoy (Papai Financeiro) | — (top 10 Anbima) | Já usado como referência de banco de imagens nesse projeto |
+
+**Seguros especificamente (concorrência direta) — achado importante:**
+| Conta | Seguidores IG | Tipo |
+|---|---|---|
+| Zurich no Brasil | 89K | Seguradora institucional |
+| Seguralta Corretora | 68K | Rede de franquias de corretagem (maior do Brasil em unidades) |
+| New Life Corretora | 44K | Corretora |
+| Lojacorr Seguros | 16K | Plataforma de seguro popular |
+| Tá Seguro Aí? | — | Conta de conteúdo/voz própria sobre seguro (não institucional) |
+
+**Achado-chave**: o teto de seguidores no nicho de **seguros especificamente** é muito menor que
+o de finanças geral (dezenas de milhares vs. milhões) — e as maiores contas de seguro são todas
+**institucionais/corporativas** (seguradora, corretora-marca), não uma voz pessoal como os
+finfluencers de sucesso. Isso sugere duas leituras possíveis: (1) o nicho de seguro tem teto
+real menor de audiência, ou (2) ninguém ainda aplicou a fórmula que funcionou em finanças geral
+(voz pessoal/de especialista, didática, sem cara de banco) especificamente pra seguros — ou
+seja, pode ser espaço livre de verdade, não saturado. Vale monitorar contas tipo "Tá Seguro Aí?"
+como comparação mais direta (voz própria, não institucional) do que as corretoras grandes.
+
+Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon.com/blog/top-finance-influencers-brazil), [InfoMoney — 10 maiores influenciadores de finanças](https://www.infomoney.com.br/minhas-financas/conheca-os-10-maiores-influenciadores-de-financas-do-brasil/), busca direta por contas de seguro no Instagram (2026-08-05).
+
+---
+
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
