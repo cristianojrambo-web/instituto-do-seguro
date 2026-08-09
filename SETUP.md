@@ -114,6 +114,20 @@ Credenciais (Buffer, CallMeBot) são passadas embutidas no prompt de cada rotina
 outro jeito de injetar segredo nesse mecanismo) — aceitável pra uso pessoal, mas vale saber que
 ficam armazenadas do lado do Anthropic associadas à rotina.
 
+## PLANO G (achado, 2026-08-09) — bloqueio de rede a bancos de imagem no ambiente de nuvem
+Na geração do lote 3 (primeira rodada 100% na nuvem via RemoteTrigger), `images.pexels.com` e
+`images.unsplash.com` retornaram 403 (bloqueio de política de egress da rede do ambiente) tanto
+via `curl` direto quanto via `WebFetch` — diferente do ambiente local, que baixa fotos novas do
+Pexels normalmente a cada lote. Não é um erro pontual: o endpoint de status do proxy confirma
+"policy denial" pros dois domínios. Impacto: não dá pra baixar fotos novas por tema toda semana
+enquanto essa política não mudar — a rotina de nuvem precisa reaproveitar fotos já commitadas em
+`content/assets/` (mesmo que o tema não seja um encaixe perfeito) ou usar o estilo caderno
+(`notebook_slide`, que não depende de foto) nos posts sem uma foto adequada já disponível.
+Pendência pro usuário: liberar esses domínios na política de egress do ambiente de nuvem (se
+possível) para retomar fotos novas por tema, ou manter um estoque maior de fotos pré-baixadas
+localmente e commitadas com antecedência, cobrindo os ramos ainda não fotografados (viagem,
+empresarial, previdência).
+
 ## PLANO B (histórico, substituído pelo Plano C) — Metricool em vez da API direta
 Motivo da troca (2026-07-28): a verificação de conta de desenvolvedor da Meta (Parte 2 abaixo)
 travou num bug conhecido e sem solução publicada (SMS de verificação nunca chega — confirmado
