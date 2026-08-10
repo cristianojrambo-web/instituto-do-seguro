@@ -37,13 +37,13 @@ Mito — e o dado é chocante: dos 28,4 milhões de brasileiros que viajaram pro
 ## Quarta 19h — Vale a pena? Seguro de Vida (6 slides)
 **Pasta:** post-03-vale-a-pena-vida/
 
-Seguro de vida: os mitos que travam a decisão de contratar 🛡️
+Seguro de vida: muito mais do que só morte 🛡️
 
-Separamos os 4 mitos mais comuns que ainda confundem quem está decidindo se vale a pena — de achar que é só pra quem tem filho até achar que precisa de exame médico caro.
+A maioria pensa só no básico. Mas o contrato geralmente já inclui: proteção em vida (invalidez por acidente ou doença grave, sem precisar morrer), proteção de renda (diária por incapacidade temporária), e sucessão facilitada — o capital não entra no inventário (art. 794 do Código Civil), vai direto pros beneficiários, sem esperar anos de processo.
 
-👇 Qual desses mitos você também acreditava?
+👇 Qual dessas coberturas você não sabia que já estava no seu contrato?
 
-#segurodevida #valeapena #institutodoseguro
+#segurodevida #valeapena #institutodoseguro #planejamentosucessorio
 
 ---
 
@@ -77,6 +77,8 @@ Seguro viagem deve crescer 12,2% em 2026 (CNseg), paga comissão média de até 
 Reaproveita o Post 1 (mito seguro auto x aplicativo) — tema mais universal (qualquer dono de carro se pergunta isso) que o de seguro viagem, mais adequado pro teste de fim de semana.
 
 ## Fontes usadas neste lote
+- Coberturas de seguro de vida além de morte (invalidez por acidente/doença, doenças graves, diária por incapacidade temporária): [MetLife — principais coberturas](https://www.metlife.com.br/blog/explica-metlife/principais-coberturas-seguro-de-vida/), [BB Seguros — cobertura de doenças graves](https://www.bbseguros.com.br/seguros/blog/vida/cobertura-doencas-graves-seguro-de-vida)
+- Art. 794 do Código Civil (capital do seguro de vida não é considerado herança, não integra inventário nem responde por dívidas do segurado): [Jusbrasil — art. 794 CC](https://www.jusbrasil.com.br/topicos/10685579/artigo-794-da-lei-n-10406-de-10-de-janeiro-de-2002), [Blog Icatu — seguro de vida entra no inventário?](https://blog.icatuseguros.com.br/minha-vida/seguro-de-vida/seguro-de-vida-entra-no-inventario/)
 - Exclusão de uso comercial em seguro auto comum e exigência de cobertura APP específica pela SUSEP: [Avalia Seguros — seguro para motorista de aplicativo](https://avaliaseguros.com.br/seguro-para-motorista-de-aplicativo/), [Consulta de Placa — seguro motorista app 2026](https://consultadeplaca.net/blog/seguro-motorista-app-uber-99-cabify-cobertura-2026)
 - Art. 771 do Código Civil (dever de aviso de sinistro) e entendimento majoritário de que a perda do direito exige prejuízo comprovado à seguradora, não é automática: [Conjur — o aviso de sinistro na proposta de reforma do Código Civil](https://www.conjur.com.br/2024-mar-07/o-aviso-de-sinistro-na-proposta-de-reforma-do-codigo-civil/), [Jusbrasil — art. 771 CC](https://www.jusbrasil.com.br/topicos/10687065/artigo-771-da-lei-n-10406-de-10-de-janeiro-de-2002)
 - Seguro viagem obrigatório na Zona Schengen, cobertura mínima de €30 mil: [Eurodicas — seguro viagem Europa 2026](https://www.eurodicas.com.br/seguro-de-viagem-europa/)
