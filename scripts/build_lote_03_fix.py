@@ -31,7 +31,7 @@ def make_html_and_render(out_dir, name, html):
 
 def build_post_01_mito_app():
     out = os.path.join(CONTENT, "semana-03", "post-01-mito-seguro-auto-app")
-    photo = p("ref-pexels-rideapp.jpg")
+    photo = p("ref-pexels-navigation.jpg")
     total = 6
     slides = [
         photo_slide(LOGO, photo, "MITO OU VERDADE", "Seu seguro auto cobre<br>rodar por <span class='hl'>aplicativo</span>?",
