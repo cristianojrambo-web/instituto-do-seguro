@@ -101,6 +101,21 @@ Windows local, Chromium na nuvem) — sem regressão no fluxo local, testado nos
 **O que ainda é local:** só a reunião de revisão/aprovação de segunda-feira em si (o usuário abre
 o Claude Code e conversa) — isso é inerentemente humano, não dá (nem faz sentido) automatizar.
 
+## PLANO G (ATIVO, 2026-08-10) — Trocado WhatsApp (CallMeBot) por Telegram
+Motivo: depois de 5 ocorrências confirmadas na mesma semana (lembrete de domingo, check-in
+diário duas vezes seguidas, lembrete de segunda), ficou claro que o CallMeBot falha em silêncio
+— a chamada retorna sucesso (HTTP 200) mas a mensagem não chega no WhatsApp. Causa raiz: o
+CallMeBot funciona simulando a sessão do WhatsApp Web do usuário, um mecanismo não-oficial e
+frágil por natureza (sessão expira/quebra sem gerar erro detectável do nosso lado).
+
+**Trocado por bot do Telegram** (API oficial, estável, gratuita): `@institutodoseguro_bot`,
+token e chat ID salvos em `config/.env` (`TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`). Todas as
+rotinas de nuvem ativas (`lembrete-segunda`, `checkin-diario`, `aprendizado-diario`,
+`lote-semanal-nuvem`) foram atualizadas pra enviar por `curl -X POST
+https://api.telegram.org/bot<TOKEN>/sendMessage` em vez do CallMeBot. Diferença chave: a
+resposta da API do Telegram inclui o `message_id` real da mensagem entregue — dá pra confirmar
+entrega de verdade, não só que a chamada HTTP não deu erro.
+
 ## PLANO F (ATIVO, 2026-08-04) — Check-in diário de publicação por WhatsApp
 Motivo: a confirmação por WhatsApp depois que um post realmente sai do ar tinha sido combinada
 várias vezes, mas nunca virou uma rotina permanente — só existiam avisos manuais enviados nessa
