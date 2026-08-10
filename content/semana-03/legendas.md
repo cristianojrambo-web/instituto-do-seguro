@@ -94,7 +94,9 @@ rede. Photo nova desse ajuste (ref-pexels-rideapp.jpg) foi baixada localmente, n
 de nuvem. Ainda pendente: decidir se libera esses domínios no ambiente de nuvem pra fotos 100%
 novas toda semana, ou manter o hábito de baixar localmente quando precisar.
 
-## Regra permanente adicionada (2026-08-10)
-O usuário não trabalha com seguro saúde. A partir de agora, a geração semanal de pautas deve
-ficar restrita aos ramos confirmados: auto, residencial, vida, viagem. Não escolher saúde,
-empresarial ou outros ramos sem confirmação explícita do usuário primeiro.
+## Regra permanente adicionada (2026-08-10, corrigida no mesmo dia)
+O usuário trabalha com todos os ramos de seguro e previdência (auto, residencial, vida, viagem,
+empresarial, equipamentos agrícolas, equipamentos em geral, previdência privada, e outros) —
+a única exclusão é **seguro saúde**, que não faz parte do escopo dele. A rotina de geração
+semanal foi corrigida pra refletir isso (a versão anterior desta regra, restrita a só 4 ramos,
+estava errada).
