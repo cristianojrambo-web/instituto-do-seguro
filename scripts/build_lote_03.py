@@ -52,25 +52,22 @@ def build_post_01_mito_saude():
 
 def build_post_02_mito_viagem():
     out = os.path.join(CONTENT, "semana-03", "post-02-mito-seguro-viagem")
+    photo = p("ref-pexels-travel.jpg")
     total = 6
     slides = [
-        notebook_slide(LOGO, "MITO OU VERDADE",
-                        "Seguro viagem só serve<br>pra quem vai pro <span class='hl'>exterior</span>?",
-                        [], "Separamos o que a maioria não sabe sobre esse seguro 👇", 1, total),
-        notebook_slide(LOGO, "A RESPOSTA", "É mito",
-                        [{"label": "Resposta", "value": "SIM", "highlight": True}],
-                        "E o motivo pode te surpreender.", 2, total),
-        notebook_slide(LOGO, "DADO", "Brasileiros que viajaram ao exterior sem seguro em 2025",
-                        [{"label": "Do total de 28,4 milhões", "value": "25,3 mi sem seguro", "highlight": True}],
-                        "Quase 9 em cada 10 viajantes saíram do país sem nenhuma cobertura.", 3, total),
-        notebook_slide(LOGO, "VIAGEM NACIONAL", "Também cobre<br>dentro do <span class='hl'>Brasil</span>",
-                        [{"label": "Cobertura nacional", "value": "médica, odontológica, bagagem"}],
-                        "Por menos de R$10/dia dá pra ter cobertura básica em qualquer viagem dentro do país.", 4, total),
-        notebook_slide(LOGO, "FORA DO PAÍS", "Pra Europa,<br>é <span class='hl'>obrigatório</span>",
-                        [{"label": "Zona Schengen exige", "value": "mín. €30 mil", "highlight": True}],
-                        "Regulamento (CE) nº 810/2009 — sem apólice válida, você pode ser barrado na imigração.", 5, total),
-        notebook_slide(LOGO, "GUARDA ISSO", "Viagem sem seguro é<br>risco <span class='hl'>evitável</span>",
-                        [], "Manda pra quem tem viagem marcada e ainda não pensou nisso.", 6, total),
+        photo_slide(LOGO, photo, "MITO OU VERDADE",
+                    "Seguro viagem só serve<br>pra quem vai pro <span class='hl'>exterior</span>?",
+                    "Separamos o que a maioria não sabe sobre esse seguro.", 1, total),
+        photo_slide(LOGO, photo, "A RESPOSTA", "É <span class='hl'>mito</span>",
+                    "E o motivo pode te surpreender.", 2, total, accent="#FF8A65"),
+        photo_slide(LOGO, photo, "DADO", "25,3 milhões viajaram<br>sem <span class='hl'>seguro</span> em 2025",
+                    "Do total de 28,4 milhões de brasileiros que foram ao exterior — quase 9 em cada 10 sem nenhuma cobertura.", 3, total, accent="#FF8A65"),
+        photo_slide(LOGO, photo, "VIAGEM NACIONAL", "Também cobre<br>dentro do <span class='hl'>Brasil</span>",
+                    "Por menos de R$10/dia dá pra ter cobertura médica, odontológica e de bagagem em qualquer viagem no país.", 4, total, accent="#7BFFC0"),
+        photo_slide(LOGO, photo, "FORA DO PAÍS", "Pra Europa,<br>é <span class='hl'>obrigatório</span>",
+                    "Regulamento (CE) nº 810/2009 exige mín. €30 mil de cobertura — sem apólice válida, você pode ser barrado na imigração.", 5, total),
+        photo_slide(LOGO, photo, "GUARDA ISSO", "Viagem sem seguro é<br>risco <span class='hl'>evitável</span>",
+                    "Manda pra quem tem viagem marcada e ainda não pensou nisso.", 6, total),
     ]
     for i, html in enumerate(slides, 1):
         make_html_and_render(out, f"slide-{i:02d}", html)
