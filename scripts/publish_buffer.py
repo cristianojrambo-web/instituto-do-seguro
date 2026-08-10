@@ -66,8 +66,20 @@ def github_raw_url(local_path):
     return url
 
 
-def create_post(channel_id, text, image_urls, due_at=None, draft=False, story=False):
-    assets = [{"image": {"url": url}} for url in image_urls]
+def create_post(channel_id, text, image_urls=None, video_url=None, due_at=None, draft=False,
+                 story=False, reel=False, ai_generated=False):
+    """video_url + reel=True publica como Reels (a API do Instagram exige video de verdade
+    pra Reels, nao aceita multiplas imagens como slideshow — isso so existe dentro do app).
+    ai_generated=True marca o post com isAiGenerated=true, pro rotulo "Feito com IA" do
+    Instagram — usar sempre que o post tiver audio narrado por IA (ex: Kokoro TTS) ou video
+    fotorrealista gerado por IA, conforme a politica de divulgacao obrigatoria da Meta."""
+    if video_url:
+        assets = [{"video": {"url": video_url}}]
+        post_type = "reel" if reel else "post"
+    else:
+        assets = [{"image": {"url": url}} for url in image_urls]
+        post_type = "story" if story else "post"
+
     mode = "customScheduled" if due_at else "shareNow"
     scheduling_type = "automatic"
 
@@ -82,8 +94,9 @@ def create_post(channel_id, text, image_urls, due_at=None, draft=False, story=Fa
             "saveToDraft": draft,
             "metadata": {
                 "instagram": {
-                    "type": "story" if story else "post",
+                    "type": post_type,
                     "shouldShareToFeed": False if story else True,
+                    "isAiGenerated": ai_generated,
                 }
             },
         }
@@ -132,10 +145,38 @@ def main():
     parser.add_argument("--due", default=None, help="ISO 8601 com fuso (ex: 2026-07-29T19:00:00-03:00). Sem isso, publica agora.")
     parser.add_argument("--draft", action="store_true", help="Salva como rascunho no Buffer em vez de publicar/agendar.")
     parser.add_argument("--story", action="store_true", help="Publica story.png do post como Story (imagem única, sem link/adesivo).")
+    parser.add_argument("--reel", action="store_true", help="Publica reel.mp4 do post como Reels (video real, nao slideshow).")
+    parser.add_argument("--ai-generated", action="store_true", help="Marca o post com isAiGenerated=true (rotulo 'Feito com IA' do Instagram) — usar quando o post tiver audio/video gerado por IA (ex: narração Kokoro TTS).")
     args = parser.parse_args()
 
     if not API_KEY:
         sys.exit("Falta BUFFER_API_KEY em config/.env")
+
+    if args.reel:
+        reel_path = os.path.join(args.post, "reel.mp4")
+        if not os.path.exists(reel_path):
+            sys.exit(f"reel.mp4 não encontrado em {args.post}")
+        video_url = github_raw_url(reel_path)
+        print(f"Resolvendo vídeo via GitHub (URL permanente)...\n  reel.mp4 -> {video_url}")
+        channel_id = CHANNEL_IDS[args.channel]
+        print("Criando post no Buffer (Reels)...")
+        result = create_post(channel_id, args.caption, video_url=video_url, due_at=args.due,
+                              draft=args.draft, reel=True, ai_generated=args.ai_generated)
+        print("Post criado:", result)
+        payload = result.get("createPost", {})
+        if "message" in payload:
+            sys.exit(f"ERRO ao criar post: {payload['message']}")
+        post_id = payload["post"]["id"]
+        if args.draft:
+            print("Rascunho salvo — não publicado, não há status final pra checar.")
+            return
+        print("Confirmando status real da publicação (não confiar em 'sending')...")
+        final = check_final_status(post_id)
+        if final["status"] == "error":
+            err = final.get("error") or {}
+            sys.exit(f"ERRO: post foi rejeitado após a criação. status=error detalhe={err.get('rawError') or err.get('message')}")
+        print(f"Status final confirmado: {final['status']}")
+        return
 
     if args.story:
         story_path = os.path.join(args.post, "story.jpg")
