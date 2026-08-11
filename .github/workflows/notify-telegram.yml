@@ -1,0 +1,22 @@
+name: Avisar por Telegram apos push
+
+# Roda em infraestrutura padrao do GitHub Actions (nao tem a restricao de rede do
+# ambiente de nuvem RemoteTrigger, que trava tentando alcancar api.telegram.org).
+# As rotinas de nuvem ja escrevem tudo de verdade no repositorio (isso sempre
+# funcionou) - esse workflow so' pega o resultado e avisa o usuario, sem depender
+# de rede restrita nenhuma.
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Enviar mensagem no Telegram com o resumo do commit
+        run: |
+          MSG="Instituto do Seguro (GitHub): ${{ github.event.head_commit.message }}"
+          curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
+            -d "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}" \
+            --data-urlencode "text=$MSG"
