@@ -116,6 +116,23 @@ https://api.telegram.org/bot<TOKEN>/sendMessage` em vez do CallMeBot. Diferença
 resposta da API do Telegram inclui o `message_id` real da mensagem entregue — dá pra confirmar
 entrega de verdade, não só que a chamada HTTP não deu erro.
 
+**Correção em 2026-08-11 (causa raiz real encontrada)**: mesmo com o Telegram, os avisos das
+rotinas de nuvem continuaram não chegando. Diagnóstico: o ambiente de nuvem (RemoteTrigger)
+**trava** tentando alcançar `api.telegram.org` — mesma política de rede que já bloqueava
+`images.pexels.com`/`images.unsplash.com` (confirmado com uma rotina de teste que ficou mais
+de 11 minutos travada nesse curl, sem nunca completar). Ou seja: o problema nunca foi
+WhatsApp vs. Telegram — era a rede restrita do sandbox de nuvem em qualquer chamada de API
+de mensageria externa.
+
+**Solução definitiva — relay via GitHub Actions**: as rotinas de nuvem **não tentam mais**
+mandar mensagem diretamente. Elas só fazem `git commit` (às vezes vazio, com
+`--allow-empty`, quando não há arquivo pra alterar) com a **mensagem do commit contendo o
+aviso real** (não um título genérico) e dão push — isso sempre funcionou, GitHub nunca foi
+bloqueado. O arquivo `.github/workflows/notify-telegram.yml` roda em infraestrutura padrão do
+GitHub Actions (sem a restrição de rede do sandbox) e manda essa mensagem de commit por
+Telegram automaticamente a cada push na branch `main`. Requer os secrets `TELEGRAM_BOT_TOKEN`
+e `TELEGRAM_CHAT_ID` configurados no repositório (Settings → Secrets and variables → Actions).
+
 ## PLANO F (ATIVO, 2026-08-04) — Check-in diário de publicação por WhatsApp
 Motivo: a confirmação por WhatsApp depois que um post realmente sai do ar tinha sido combinada
 várias vezes, mas nunca virou uma rotina permanente — só existiam avisos manuais enviados nessa
