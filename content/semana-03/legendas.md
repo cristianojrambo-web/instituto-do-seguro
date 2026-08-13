@@ -96,6 +96,15 @@ rede. Photo nova desse ajuste (ref-pexels-rideapp.jpg) foi baixada localmente, n
 de nuvem. Ainda pendente: decidir se libera esses domínios no ambiente de nuvem pra fotos 100%
 novas toda semana, ou manter o hábito de baixar localmente quando precisar.
 
+## Primeiro Reels real publicado (2026-08-13)
+Post 1 (mito seguro auto x aplicativo) publicado como Reels de vídeo real (não slideshow),
+usando o pipeline karaokê (Kokoro TTS + legenda estilo karaokê + 4 clipes de vídeo real sem
+repetição + encerramento com logo). Rotulado `isAiGenerated=true` (narração sintética via
+Kokoro TTS). Legenda ajustada com base no `APRENDIZADOS_INSTAGRAM.md`: CTA de envio por DM
+nomeando o destinatário (sinal nº1 do algoritmo, achado 2026-08-05), CTA de salvar, CTA de
+perfil com valor específico em vez de "segue pra mais" genérico (achados 2026-08-06/08-08),
+e hashtags de volume médio (5-10, achado 2026-08-06) em vez de hashtags genéricas gigantes.
+
 ## Regra permanente adicionada (2026-08-10, corrigida no mesmo dia)
 O usuário trabalha com todos os ramos de seguro e previdência (auto, residencial, vida, viagem,
 empresarial, equipamentos agrícolas, equipamentos em geral, previdência privada, e outros) —
