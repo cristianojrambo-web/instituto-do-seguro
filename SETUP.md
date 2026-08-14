@@ -160,6 +160,37 @@ possível) para retomar fotos novas por tema, ou manter um estoque maior de foto
 localmente e commitadas com antecedência, cobrindo os ramos ainda não fotografados (viagem,
 empresarial, previdência).
 
+## PLANO H (ATIVO, 2026-08-14) — bloqueio de rede também atingiu api.buffer.com
+Mesma classe de bloqueio do Plano G (imagens) e da correção de Telegram acima, agora confirmada
+pra `api.buffer.com`: o check-in diário e as checagens de métricas do 1º Reels, rodando no
+ambiente de nuvem (RemoteTrigger), passaram a receber 403 do proxy de egress ("gateway answered
+403 to CONNECT", policy denial) ao tentar consultar a API do Buffer — não é erro de credencial,
+a `BUFFER_API_KEY` está correta. Confirmado em 3 execuções seguidas (2026-08-13 e 2026-08-14).
+
+Correção adotada: qualquer rotina automática que precise falar com a API do Buffer foi migrada
+do RemoteTrigger pro **GitHub Actions** (rede sem essa restrição), que já manda o aviso pro
+Telegram direto no mesmo job — sem precisar do relay via commit vazio que as rotinas de nuvem
+ainda usam pra outros avisos (lembretes, aprendizados). Arquivos:
+- `.github/workflows/reel-metrics-check.yml` — checagem 24h/48h de métricas do 1º Reels
+  (`scripts/reel_metrics_report.py`), cron com dia/mês específicos (2026-08-14 e 2026-08-15,
+  pode ser apagado depois disso).
+- `.github/workflows/daily-checkin.yml` — substitui a rotina RemoteTrigger
+  `instituto-do-seguro-checkin-diario` (desativada, não apagada), roda `scripts/daily_checkin_report.py`
+  todo dia (seg-sáb) à meia-noite UTC.
+- Requer secret `BUFFER_API_KEY` no repositório GitHub (Settings → Secrets and variables →
+  Actions), além dos secrets `TELEGRAM_BOT_TOKEN`/`TELEGRAM_CHAT_ID` já configurados.
+
+Também corrigido no processo: `.github/workflows/notify-telegram.yml` interpolava
+`${{ github.event.head_commit.message }}` direto dentro de uma string do shell — mensagens de
+commit com aspas ou múltiplas linhas quebravam a sintaxe do script gerado e faziam o job falhar
+silenciosamente (o usuário só via o e-mail de "Run failed" do GitHub, sem receber o aviso real).
+Corrigido passando a mensagem via `env:` em vez de interpolação direta — padrão seguro
+recomendado pelo próprio GitHub pra esse tipo de valor.
+
+Pendência: se o bloqueio de rede algum dia for revertido (organização libera os domínios), as
+rotinas RemoteTrigger desativadas neste plano podem voltar a ser reativadas — mas não há motivo
+prático pra isso enquanto o caminho via GitHub Actions funciona bem.
+
 ## PLANO B (histórico, substituído pelo Plano C) — Metricool em vez da API direta
 Motivo da troca (2026-07-28): a verificação de conta de desenvolvedor da Meta (Parte 2 abaixo)
 travou num bug conhecido e sem solução publicada (SMS de verificação nunca chega — confirmado
