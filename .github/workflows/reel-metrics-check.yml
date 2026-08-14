@@ -1,0 +1,33 @@
+name: Checar metricas do 1o Reels (24h e 48h)
+
+# Roda em infraestrutura padrao do GitHub Actions (rede sem restricao) porque o
+# ambiente de nuvem do RemoteTrigger bloqueia acesso a api.buffer.com (mesma
+# classe de bloqueio ja documentada para Telegram/Pexels/Unsplash em SETUP.md).
+#
+# Os horarios abaixo (dia/mes especificos) sao intencionalmente "one-off": so
+# batem em 2026-08-14 e 2026-08-15. Pode apagar este arquivo depois do dia 15.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 18 14 8 *"  # 24h apos a publicacao (2026-08-13 18:11 UTC)
+    - cron: "15 18 15 8 *"  # 48h apos a publicacao
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests python-dotenv
+      - name: Rodar checagem e avisar por Telegram
+        working-directory: scripts
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ "${{ github.event.schedule }}" = "15 18 15 8 *" ]; then LABEL="48h"; else LABEL="24h"; fi
+          python reel_metrics_report.py --post-id 6a7e0829fe335a93dec92870 --label "$LABEL"

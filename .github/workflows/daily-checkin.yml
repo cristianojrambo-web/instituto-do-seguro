@@ -1,0 +1,28 @@
+name: Check-in diario do Instagram
+
+# Roda em infraestrutura padrao do GitHub Actions (rede sem restricao) porque o
+# ambiente de nuvem do RemoteTrigger bloqueia acesso a api.buffer.com (mesma
+# classe de bloqueio ja documentada para Telegram/Pexels/Unsplash em SETUP.md).
+# Substitui a rotina RemoteTrigger "instituto-do-seguro-checkin-diario" (desativada).
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 1-6"  # todo dia (seg-sab) a meia-noite UTC
+
+jobs:
+  checkin:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install requests python-dotenv
+      - name: Rodar check-in e avisar por Telegram
+        working-directory: scripts
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python daily_checkin_report.py
