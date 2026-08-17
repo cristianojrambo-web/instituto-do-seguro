@@ -14,9 +14,11 @@ Sua empresa pequena não precisa de seguro empresarial? 🏢
 
 Mito — mais de 60% das PMEs brasileiras operam sem proteção contra incêndio, roubo ou responsabilidade civil, mesmo sendo 97% dos negócios do país (Sebrae). O custo varia bastante conforme o porte e o que é contratado, mas costuma ser bem menor que o prejuízo de um sinistro sem seguro — vale pedir uma cotação.
 
-👇 Sua empresa já tem seguro empresarial, ou você nunca parou pra cotar?
+💾 Salva esse post pra quando for revisar o seguro da empresa.
+📲 Manda pro amigo que tem negócio próprio e nunca parou pra cotar.
+👉 Segue o Instituto do Seguro pra não deixar sua empresa exposta por falta de informação.
 
-#seguroempresarial #pme #institutodoseguro #segurodenegocio
+#seguroempresarial #pme #segurodenegocio #institutodoseguro #corretordeseguros #protecaoempresarial #pequenasempresas
 
 ---
 
@@ -27,9 +29,11 @@ Seu seguro auto não cobre se o motorista bateu e fugiu? 🚗
 
 Depende só de um fator: o tipo de cobertura, não de achar o culpado. Com compreensiva ou colisão, seu carro está protegido mesmo sem identificar quem bateu — é regra de contrato. Já o RCF-V cobre só o dano que você causa a terceiro, nunca o seu próprio carro. Alguns contratos ainda tentam limitar isso citando "terceiro não identificado" — a Justiça (TJMG) já entendeu abusivo quando a cláusula de exclusão não é clara e destacada.
 
-👇 Já levou uma batida assim e a seguradora tentou negar?
+💾 Salva esse post e confere sua apólice depois.
+📲 Manda pro motorista que já levou uma batida e o culpado fugiu sem ser identificado.
+👉 Segue o Instituto do Seguro pra saber exatamente o que sua cobertura cobre.
 
-#seguroauto #mitooverdade #institutodoseguro #direitodoconsumidor
+#seguroauto #mitooverdade #direitodoconsumidor #institutodoseguro #segurodeauto #coberturacompreensiva #dicasdeseguro
 
 ---
 
@@ -40,9 +44,11 @@ Seguro de equipamentos agrícolas vale a pena? 🚜
 
 As contratações desse seguro cresceram 22% num só semestre, com o trator como equipamento mais protegido — e o custo, que varia com a máquina e a apólice, costuma ser uma fração do prejuízo de perder o equipamento na safra. Cobertura típica: incêndio, roubo, tombamento e danos elétricos (varia conforme a apólice contratada).
 
-👇 Essa lista de coberturas é grande pra decorar — salva pra usar antes da próxima safra.
+💾 Salva esse post pra usar antes da próxima safra.
+📲 Manda pro produtor rural que ainda não segurou o maquinário.
+👉 Segue o Instituto do Seguro pra mais conteúdo sobre seguro rural e agronegócio.
 
-#seguroagricola #agronegocio #institutodoseguro #segurorural
+#seguroagricola #agronegocio #segurorural #institutodoseguro #maquinasagricolas #corretordeseguros #agro
 
 ---
 
@@ -53,9 +59,11 @@ Atrasar uma parcela do seguro pode custar sua indenização inteira? ⚠️ (cas
 
 A Lei 15.040/2024 é dura: atraso na parcela única ou na 1ª parcela resolve o contrato automaticamente. Nas parcelas seguintes, a seguradora precisa notificar e dar no mínimo 15 dias pra você quitar — mas se não pagar, a cobertura fica suspensa e o contrato só pode ser resolvido 30 dias depois.
 
-👇 Você sabia que existia essa diferença entre a 1ª parcela e as seguintes?
+💾 Salva esse post antes de atrasar a próxima parcela.
+📲 Manda pra quem já esqueceu de pagar uma parcela do seguro.
+👉 Segue o Instituto do Seguro pra não perder indenização por detalhe de contrato.
 
-#casoreal #institutodoseguro #direitodoconsumidor #leidosseguros
+#casoreal #direitodoconsumidor #leidosseguros #institutodoseguro #marcolegaldosseguros #segurosbrasil #dicasdeseguro
 
 ---
 
@@ -66,9 +74,11 @@ O produto de R$1,8 trilhão que talvez esteja parado na sua carteira 📈 (com f
 
 Previdência privada aberta já administra R$1,8 trilhão em ativos no Brasil (+13,2% em um ano), com 11,2 milhões de participantes — muitos sem corretor acompanhando de perto. Saber a diferença entre PGBL (deduz até 12% da renda tributável) e VGBL (imposto só no rendimento) já é um argumento de venda pronto na próxima renovação.
 
-👇 Você já pergunta sobre previdência na renovação de auto ou vida, ou só quando o cliente pergunta primeiro?
+💾 Salva esse post e usa como script na próxima renovação.
+📲 Manda pro colega corretor que só vende auto e vida.
+👉 Segue o Instituto do Seguro pra ampliar sua carteira com produtos que você já podia estar vendendo.
 
-#corretordeseguros #papodecorretor #institutodoseguro #previdenciaprivada
+#corretordeseguros #papodecorretor #previdenciaprivada #institutodoseguro #pgblvgbl #vendasdeseguro #previdencia
 
 ---
 
@@ -76,6 +86,14 @@ Previdência privada aberta já administra R$1,8 trilhão em ativos no Brasil (+
 Reaproveita o Post 2 (mito seguro auto x terceiro não identificado) — tema mais universal (qualquer
 dono de carro já temeu isso) que empresarial, mais adequado pro teste de fim de semana. Nunca papo
 de corretor no teste de domingo (regra fixa).
+
+## Legendas atualizadas pro padrão novo de CTA (2026-08-17)
+As 5 legendas foram reescritas trocando o CTA de pergunta genérica por três CTAs específicos,
+baseados nos achados registrados em `APRENDIZADOS_INSTAGRAM.md`: 💾 salvar (sinal de algoritmo),
+📲 enviar por DM nomeando o destinatário-alvo (sinal nº1 do algoritmo, achado 2026-08-05) e 👉
+seguir o perfil com um valor específico em vez de "segue pra mais" genérico (achados
+2026-08-06/08-08). Hashtags trocadas de 4 genéricas pra 7 de volume médio (achado 2026-08-06).
+Mesmo padrão já aplicado à legenda do primeiro Reels (semana-03, post-01).
 
 ## Fontes usadas neste lote
 - PMEs são 97% dos negócios ativos no Brasil (21,7 milhões de empreendimentos, 26,5% do PIB, Sebrae) e mais de 60% operam sem proteção adequada: [ComVida Seguros — Seguro Empresarial para Pequenas Empresas: Guia 2026](https://comvidaseguros.com.br/blog/seguro-empresarial-pequenas-empresas/), [REP Seguros — Quais seguros uma empresa precisa ter em 2026?](https://www.repseguros.com.br/noticias-e-artigos/quais-seguros-uma-empresa-precisa-ter-guia)
