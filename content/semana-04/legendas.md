@@ -12,7 +12,7 @@ equipamentos agrícolas, equipamentos em geral, previdência privada, entre outr
 
 Sua empresa pequena não precisa de seguro empresarial? 🏢
 
-Mito — mais de 60% das PMEs brasileiras operam sem proteção contra incêndio, roubo ou responsabilidade civil, mesmo sendo 97% dos negócios do país (Sebrae). Cobertura básica de seguro empresarial custa entre R$80 e R$150 por mês — bem menos que o prejuízo de um sinistro sem seguro.
+Mito — mais de 60% das PMEs brasileiras operam sem proteção contra incêndio, roubo ou responsabilidade civil, mesmo sendo 97% dos negócios do país (Sebrae). O custo varia bastante conforme o porte e o que é contratado, mas costuma ser bem menor que o prejuízo de um sinistro sem seguro — vale pedir uma cotação.
 
 👇 Sua empresa já tem seguro empresarial, ou você nunca parou pra cotar?
 

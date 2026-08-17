@@ -36,14 +36,18 @@ def _find_browser():
     )
 
 
-def render(html_path: str, png_path: str, width: int = 1080, height: int = 1350):
+def render(html_path: str, png_path: str, width: int = 1080, height: int = 1350, transparent: bool = False):
     file_url = "file:///" + html_path.replace("\\", "/")
     browser_path, extra_flags = _find_browser()
+    if transparent:
+        extra_flags = [*extra_flags, "--default-background-color=00000000"]
     result = subprocess.run(
         [
             browser_path,
             "--headless",
             "--disable-gpu",
+            "--force-device-scale-factor=1",
+            "--hide-scrollbars",
             *extra_flags,
             f"--screenshot={png_path}",
             f"--window-size={width},{height}",
