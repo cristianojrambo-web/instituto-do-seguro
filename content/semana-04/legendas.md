@@ -38,7 +38,7 @@ Depende só de um fator: o tipo de cobertura, não de achar o culpado. Com compr
 
 Seguro de equipamentos agrícolas vale a pena? 🚜
 
-As contratações desse seguro cresceram 22% num só semestre, com o trator como equipamento mais protegido — e o custo (R$4 mil a R$20 mil por ano numa colheitadeira) é uma fração do prejuízo de perder a máquina na safra. Cobre incêndio, roubo, tombamento e danos elétricos.
+As contratações desse seguro cresceram 22% num só semestre, com o trator como equipamento mais protegido — e o custo, que varia com a máquina e a apólice, costuma ser uma fração do prejuízo de perder o equipamento na safra. Cobertura típica: incêndio, roubo, tombamento e danos elétricos (varia conforme a apólice contratada).
 
 👇 Essa lista de coberturas é grande pra decorar — salva pra usar antes da próxima safra.
 
@@ -90,9 +90,11 @@ de corretor no teste de domingo (regra fixa).
 
 ## Fotos usadas
 - ref-pexels-contract.jpg — mito seguro empresarial (já existente no repositório)
-- ref-pexels-crash.jpg — mito seguro auto x terceiro não identificado (já existente no repositório)
+- ref-pexels-bmw-damaged.jpg — mito seguro auto x terceiro não identificado (nova, baixada do Pexels; substituiu duas tentativas anteriores por feedback do usuário — carro batido genérico repetido demais, depois dano pouco visível)
+- ref-pexels-colheitadeira.jpg — capa e story de vale a pena equipamentos agrícolas (nova, baixada do Pexels)
 - ref-pexels-house.jpg — caso real de atraso no pagamento do prêmio (já existente no repositório)
-- Posts 3 (vale a pena equipamentos agrícolas) e 5 (papo de corretor previdência) usam o estilo caderno, sem foto.
+- Post 3 (vale a pena equipamentos agrícolas): capa com foto de colheitadeira, slides internos (2-6) mantêm o estilo caderno.
+- Post 5 (papo de corretor previdência) usa o estilo caderno, sem foto.
 
 ## Pendência de rede (confirmada de novo nesta rodada, 2026-08-16)
 O ambiente de nuvem continua bloqueando `images.pexels.com`, `images.unsplash.com`,

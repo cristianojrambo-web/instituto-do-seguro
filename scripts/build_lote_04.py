@@ -77,24 +77,25 @@ def build_post_02_mito_auto_terceiro():
 
 def build_post_03_vale_a_pena_agro():
     out = os.path.join(CONTENT, "semana-04", "post-03-vale-a-pena-equipamentos-agricolas")
+    photo = p("ref-pexels-colheitadeira.jpg")
     total = 6
     slides = [
-        notebook_slide(LOGO, "VALE A PENA?",
-                        "Seguro de Equipamentos<br>Agrícolas: vale a <span class='hl'>pena</span>?",
-                        [], "Trator, colheitadeira, pulverizador — separamos os números antes de você decidir 👇", 1, total),
+        photo_slide(LOGO, photo, "VALE A PENA?",
+                    "Seguro de Equipamentos<br>Agrícolas: vale a <span class='hl'>pena</span>?",
+                    "Trator, colheitadeira, pulverizador — separamos os números antes de você decidir.", 1, total),
         notebook_slide(LOGO, "COBERTURA", "O que entra na<br><span class='hl'>proteção</span>",
                         [{"label": "Incêndio e roubo/furto", "value": "cobre"},
                          {"label": "Tombamento", "value": "cobre"},
                          {"label": "Danos elétricos", "value": "cobre"},
                          {"label": "Danos a terceiros", "value": "cobre", "highlight": True}],
-                        "Vale pra trator, colheitadeira, plantadeira, enfardadeira e pulverizador.", 2, total),
+                        "Vale pra trator, colheitadeira, plantadeira, enfardadeira e pulverizador — a cobertura exata varia conforme a apólice contratada.", 2, total),
         notebook_slide(LOGO, "CRESCIMENTO", "O ramo está<br><span class='hl'>disparando</span>",
                         [{"label": "Contratações no 1º semestre", "value": "+22%", "highlight": True},
                          {"label": "Nº de apólices", "value": "+12%"}],
                         "Dado de uma das maiores seguradoras do ramo — o trator é hoje o equipamento mais contratado, à frente da colheitadeira.", 3, total),
-        notebook_slide(LOGO, "CUSTO", "Quanto custa<br><span class='hl'>proteger</span> a máquina",
-                        [{"label": "Colheitadeira / ano", "value": "R$4mil a R$20mil", "highlight": True}],
-                        "Varia com o ano e o valor do equipamento — uma fração do prejuízo de perder a máquina na safra.", 4, total),
+        notebook_slide(LOGO, "CUSTO REAL", "Depende da<br><span class='hl'>máquina e da apólice</span>",
+                        [],
+                        "O valor varia com o ano, o modelo e a cobertura escolhida — mas costuma ser uma fração do prejuízo de perder o equipamento na safra. Vale pedir uma cotação.", 4, total),
         notebook_slide(LOGO, "ONDE MAIS CRESCE", "A demanda tem<br><span class='hl'>endereço</span>",
                         [{"label": "Paraná", "value": "+17% da carteira", "highlight": True},
                          {"label": "Norte/Centro-Oeste + Sul", "value": "~70% das vendas"}],

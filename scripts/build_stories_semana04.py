@@ -33,7 +33,7 @@ STORIES = {
     "post-03-vale-a-pena-equipamentos-agricolas": dict(
         tag="VALE A PENA?",
         title="Seguro de equipamentos<br><span class='hl'>agrícolas</span>",
-        photo=None,
+        photo=p("ref-pexels-colheitadeira.jpg"),
     ),
     "post-04-caso-real-mora-premio": dict(
         tag="ATENÇÃO",
