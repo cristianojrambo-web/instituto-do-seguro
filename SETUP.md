@@ -191,6 +191,28 @@ Pendência: se o bloqueio de rede algum dia for revertido (organização libera 
 rotinas RemoteTrigger desativadas neste plano podem voltar a ser reativadas — mas não há motivo
 prático pra isso enquanto o caminho via GitHub Actions funciona bem.
 
+## PLANO I (achado, 2026-08-17) — publicação imediata (shareNow) no Buffer é instável, agendada não
+
+Ao publicar o lote 4, `publish_buffer.py` sem `--due` (shareNow) retornou erro
+("Application request limit reached: ... status code 403", que o Buffer também descreve como
+"flagged as potential spam") duas vezes seguidas pro mesmo post — mas as duas tentativas na
+verdade **publicaram de verdade no Instagram**, e mais uma vez via republicação manual de teste,
+resultando em 4 cópias duplicadas do mesmo post no feed ao vivo. O usuário teve que apagar 3
+manualmente pelo app do Instagram (Buffer não expõe exclusão de post já publicado via API).
+
+Causa provável: o shareNow do Buffer chama a API de publicação do Instagram de forma síncrona e
+a *confirmação* de status é o que esbarra no limite de taxa do Graph API — não a publicação em
+si, que segue em frente mesmo quando a chamada de confirmação falha. Ou seja, "status=error" no
+shareNow não significa "não publicou": pode significar só que a resposta de confirmação falhou.
+**Nunca tentar de novo automaticamente após um erro em publicação imediata** — confirmar
+manualmente no Instagram antes de qualquer nova tentativa.
+
+Publicação **agendada** (`--due`, mesmo que poucos minutos no futuro) passa pelo worker de fila
+do Buffer, que é o produto principal deles — testado com os 10 itens restantes do lote 4
+(5 posts × feed+story, incluindo o teste de domingo) e todos confirmaram `status: scheduled` sem
+nenhum erro. **Regra adotada:** preferir sempre `--due` (mesmo que só T+5min) em vez de shareNow
+sem data, mesmo pra publicação "imediata" — evita esse problema por completo.
+
 ## PLANO B (histórico, substituído pelo Plano C) — Metricool em vez da API direta
 Motivo da troca (2026-07-28): a verificação de conta de desenvolvedor da Meta (Parte 2 abaixo)
 travou num bug conhecido e sem solução publicada (SMS de verificação nunca chega — confirmado
