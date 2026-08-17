@@ -54,7 +54,7 @@ def build_post_01_mito_empresarial():
 
 def build_post_02_mito_auto_terceiro():
     out = os.path.join(CONTENT, "semana-04", "post-02-mito-auto-terceiro-nao-identificado")
-    photo = p("ref-pexels-bumper-yellow.jpg")
+    photo = p("ref-pexels-bmw-damaged.jpg")
     total = 6
     slides = [
         photo_slide(LOGO, photo, "MITO OU VERDADE",
