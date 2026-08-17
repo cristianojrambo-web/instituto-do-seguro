@@ -43,7 +43,7 @@ STORIES = {
     "post-05-papo-corretor-previdencia": dict(
         tag="PAPO DE CORRETOR",
         title="O produto de<br><span class='hl'>R$1,8 trilhão</span> parado na mesa",
-        photo=None,
+        photo=p("ref-pexels-previdencia.jpg"),
     ),
 }
 

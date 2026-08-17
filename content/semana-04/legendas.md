@@ -92,9 +92,9 @@ de corretor no teste de domingo (regra fixa).
 - ref-pexels-contract.jpg — mito seguro empresarial (já existente no repositório)
 - ref-pexels-bmw-damaged.jpg — mito seguro auto x terceiro não identificado (nova, baixada do Pexels; substituiu duas tentativas anteriores por feedback do usuário — carro batido genérico repetido demais, depois dano pouco visível)
 - ref-pexels-colheitadeira.jpg — capa e story de vale a pena equipamentos agrícolas (nova, baixada do Pexels)
+- ref-pexels-previdencia.jpg — capa e story de papo de corretor previdência (nova, baixada do Pexels; relógio, pote de moedas e casinha, remete a planejamento financeiro de longo prazo)
 - ref-pexels-house.jpg — caso real de atraso no pagamento do prêmio (já existente no repositório)
-- Post 3 (vale a pena equipamentos agrícolas): capa com foto de colheitadeira, slides internos (2-6) mantêm o estilo caderno.
-- Post 5 (papo de corretor previdência) usa o estilo caderno, sem foto.
+- Posts 3 (equipamentos agrícolas) e 5 (previdência): capa e story com foto, slides internos (2-6) mantêm o estilo caderno.
 
 ## Pendência de rede (confirmada de novo nesta rodada, 2026-08-16)
 O ambiente de nuvem continua bloqueando `images.pexels.com`, `images.unsplash.com`,

@@ -132,11 +132,12 @@ def build_post_04_caso_real_mora():
 
 def build_post_05_papo_corretor_previdencia():
     out = os.path.join(CONTENT, "semana-04", "post-05-papo-corretor-previdencia")
+    photo = p("ref-pexels-previdencia.jpg")
     total = 6
     slides = [
-        notebook_slide(LOGO, "PAPO DE CORRETOR",
-                        "O produto de <span class='hl'>R$1,8 trilhão</span><br>que talvez você não ofereça",
-                        [], "Com fonte. Não é achismo.", 1, total),
+        photo_slide(LOGO, photo, "PAPO DE CORRETOR",
+                    "O produto de <span class='hl'>R$1,8 trilhão</span><br>que talvez você não ofereça",
+                    "Com fonte. Não é achismo.", 1, total),
         notebook_slide(LOGO, "DADO", "O mercado de<br><span class='hl'>previdência privada</span>",
                         [{"label": "Ativos sob gestão (jan/2026)", "value": "R$1,8 tri", "highlight": True},
                          {"label": "Crescimento vs. 2025", "value": "+13,2%"}],
