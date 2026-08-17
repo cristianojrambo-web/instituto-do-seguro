@@ -28,7 +28,7 @@ STORIES = {
     "post-02-mito-auto-terceiro-nao-identificado": dict(
         tag="MITO OU VERDADE",
         title="Bateram e fugiram —<br>seu seguro <span class='hl'>cobre?</span>",
-        photo=p("ref-pexels-crash.jpg"),
+        photo=p("ref-pexels-bumper-yellow.jpg"),
     ),
     "post-03-vale-a-pena-equipamentos-agricolas": dict(
         tag="VALE A PENA?",

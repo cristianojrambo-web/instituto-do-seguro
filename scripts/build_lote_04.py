@@ -54,22 +54,22 @@ def build_post_01_mito_empresarial():
 
 def build_post_02_mito_auto_terceiro():
     out = os.path.join(CONTENT, "semana-04", "post-02-mito-auto-terceiro-nao-identificado")
-    photo = p("ref-pexels-crash.jpg")
+    photo = p("ref-pexels-bumper-yellow.jpg")
     total = 6
     slides = [
         photo_slide(LOGO, photo, "MITO OU VERDADE",
                     "Bateram no seu carro e<br>o motorista <span class='hl'>fugiu</span>?",
                     "Muita gente acha que, sem saber quem foi, o seguro nunca cobre.", 1, total),
-        photo_slide(LOGO, photo, "A RESPOSTA", "<span class='hl'>Mito</span> — na maioria dos casos",
-                    "A seguradora pode negar de cara, mas a Justiça já entende que essa negativa costuma ser abusiva.", 2, total, accent="#7BFFC0"),
-        photo_slide(LOGO, photo, "JÁ FOI PRA JUSTIÇA", "O contrato precisa ser<br><span class='hl'>claro</span>",
-                    "O TJMG decidiu que é abusiva a negativa de cobertura por terceiro não identificado quando o contrato não traz cláusula de exclusão expressa, clara e destacada (Apelação Cível 1.0000.22.102233-0/001).", 3, total),
-        photo_slide(LOGO, photo, "ATENÇÃO AO TIPO", "Confira qual <span class='hl'>cobertura</span> você tem",
-                    "RCF-V (Responsabilidade Civil Facultativa a Terceiros) cobre danos que VOCÊ causa a terceiros — não protege o seu próprio carro. Pra isso, precisa de cobertura compreensiva/colisão.", 4, total, accent="#FF8A65"),
-        photo_slide(LOGO, photo, "NA HORA DO SINISTRO", "Registre tudo<br>antes de <span class='hl'>aceitar um não</span>",
-                    "Faça B.O., fotografe o local e os danos, e confira as Condições Gerais da sua apólice antes de aceitar uma negativa.", 5, total),
-        photo_slide(LOGO, photo, "GUARDA ISSO", "Não aceita <span class='hl'>\"não\"</span><br>sem checar o contrato",
-                    "Manda pra quem já levou uma batida e ficou sem saber quem foi.", 6, total),
+        photo_slide(LOGO, photo, "A RESPOSTA", "Depende de <span class='hl'>um fator só</span>",
+                    "Não tem a ver com achar o culpado. Tem a ver com o tipo de cobertura que você contratou — e isso é regra de contrato, não depende de decisão judicial.", 2, total, accent="#7BFFC0"),
+        photo_slide(LOGO, photo, "SE VOCÊ TEM ISSO", "Compreensiva ou colisão?<br><span class='hl'>Cobre sempre</span>",
+                    "Com essa cobertura, seu carro está protegido mesmo sem identificar quem bateu — é assim que a cobertura funciona, com ou sem culpado encontrado.", 3, total, accent="#7BFFC0"),
+        photo_slide(LOGO, photo, "ATENÇÃO AO TIPO", "RCF-V <span class='hl'>nunca</span><br>cobre o seu carro",
+                    "RCF-V (Responsabilidade Civil Facultativa a Terceiros) cobre só o que VOCÊ causa a terceiros — não indeniza o seu carro, com ou sem motorista identificado.", 4, total, accent="#FF8A65"),
+        photo_slide(LOGO, photo, "FIQUE ATENTO", "Alguns contratos<br>tentam <span class='hl'>limitar isso</span>",
+                    "Já houve seguradora negando cobertura compreensiva citando 'terceiro não identificado' — o TJMG entendeu abusivo quando a cláusula de exclusão não é clara e destacada (Apelação Cível 1.0000.22.102233-0/001).", 5, total),
+        photo_slide(LOGO, photo, "GUARDA ISSO", "Confira sua cobertura<br>antes de <span class='hl'>precisar</span>",
+                    "Manda pra quem não sabe se tem compreensiva ou só RCF-V.", 6, total),
     ]
     for i, html in enumerate(slides, 1):
         make_html_and_render(out, f"slide-{i:02d}", html)

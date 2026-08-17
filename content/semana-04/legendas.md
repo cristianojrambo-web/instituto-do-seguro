@@ -25,7 +25,7 @@ Mito — mais de 60% das PMEs brasileiras operam sem proteção contra incêndio
 
 Seu seguro auto não cobre se o motorista bateu e fugiu? 🚗
 
-Mito, na maioria dos casos — a Justiça já entende (TJMG) que negar cobertura por terceiro não identificado é abusivo quando o contrato não tem cláusula clara e destacada de exclusão. Mas atenção: isso vale pra cobertura compreensiva/colisão do seu carro, não pro RCF-V (que cobre só o dano que você causa a terceiro).
+Depende só de um fator: o tipo de cobertura, não de achar o culpado. Com compreensiva ou colisão, seu carro está protegido mesmo sem identificar quem bateu — é regra de contrato. Já o RCF-V cobre só o dano que você causa a terceiro, nunca o seu próprio carro. Alguns contratos ainda tentam limitar isso citando "terceiro não identificado" — a Justiça (TJMG) já entendeu abusivo quando a cláusula de exclusão não é clara e destacada.
 
 👇 Já levou uma batida assim e a seguradora tentou negar?
 
