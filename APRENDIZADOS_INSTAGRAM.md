@@ -66,6 +66,13 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-09-30
+
+- **Achado 1 (o mais acionável de hoje, feature do Edits nunca registrada): o app Edits (editor de vídeo da Meta) ganhou legendas bilíngues em 15 idiomas, incluindo português, espanhol, hindi e japonês — as legendas acompanham a fala real quando o criador alterna de idioma no mesmo vídeo (fonte: cobertura de atualizações de set/2026, Metricool/NapoleonCat/Embedsocial). Isso soma ao que já está mapeado sobre tradução por IA de dublagem e legenda.** -> Acao concreta: se algum Reel do Instituto do Seguro citar termo técnico em inglês ou espanhol (ex.: "cash back", "franquia"), testar as legendas do Edits em vez de legenda manual; ganho é acessibilidade e retenção sem áudio.
+- **Achado 2, formato de conteúdo repetível nunca registrado: "Daily/Weekly/Monthly Breakdown" — o criador divide uma rotina (skincare, calendário de posts, treino) em três baldes (diário, semanal, mensal), formato que a cobertura de tendências (Later/SocialBee/Newengen, semana de 23/09/2026) descreve como encaixável em qualquer nicho.** -> Acao concreta: adaptar como carrossel "Seguro do carro: o que checar todo dia / toda semana / todo mês" (pneu, documentos, vencimento de apólice, revisão) — pilar educativo, sem rosto e sem áudio licenciado.
+- **Achado 3, registrado por completude (sem aplicação direta ao nicho): o Instagram está liberando compartilhamento de música direto na DM (sticker "Music", prévia de 30 segundos) e gravação de vídeo curto dentro da câmera do "Instants" (lançado em maio/2026). Mais um sinal de que a DM é o canal central de distribuição, coerente com o peso de compartilhamento por DM (3-5x o de curtida, segundo guias de 2026).** -> Acao concreta: nenhuma nova; manter CTA de "manda pra quem tem seguro vencendo" nos posts.
+- **Confirmação (sem mudança de ranqueamento): nenhuma alteração formal de algoritmo confirmada em set/2026; benchmark Socialinsider Q2/2026 mostra engajamento médio de 0,45% (carrossel 0,50%, Reels 0,48%, imagem 0,33%).**
+
 ## 2026-09-29
 
 - **Confirmação de período parado no ranqueamento: pesquisa de hoje (SocialPilot, Fanpage Karma, Keywords Everywhere, atualizada set/2026) não encontrou nenhuma mudança formal de algoritmo anunciada em setembro/2026; a lógica central segue inalterada (relevância, consistência, engajamento significativo; sem prêmio a volume ou "hack" de viralização). Único movimento do mês é político (Mosseri defendendo o feed ranqueado em 10/09, já registrado).** -> Acao concreta: nao mudar a estrategia por "boato de algoritmo" esta semana; manter o plano de pilares e a cadencia atual.
