@@ -66,6 +66,11 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-03
+
+- **Achado 1 (único acionável de hoje; fonte: PetaPixel, 01/10/2026, via resumo de busca — não consegui abrir a página, bloqueada pelo proxy): o Instagram começou a liberar o "Edits Assistant", assistente de IA do app Edits que analisa o desempenho dos Reels do próprio criador e sugere que conteúdo fazer a seguir.** Isso é o lançamento efetivo da ferramenta já anunciada em junho (registrada em 09-02 como anúncio, sem rollout confirmado). Detalhes de disponibilidade por país/conta não verificados. -> Acao concreta: quando aparecer no Edits da conta do Instituto do Seguro, rodar a análise sobre os últimos 10-15 Reels e usar as sugestões só como fonte de pauta, cruzando com retenção e sends do Insights; não aceitar roteiro pronto sem revisar a conformidade (SUSEP/sem promessa de cobertura).
+- **Confirmação (sem mudança de ranqueamento): nenhuma alteração formal de algoritmo para outubro/2026 verificada; sinais seguem watch time, sends por alcance e curtidas por alcance. Demais itens vistos hoje (Your Algorithm no feed, carrossel de 20 slides, limite de 5 hashtags, frescor de 50%, First Draft, velocidade de Reels, tradução automática de texto) já estão registrados acima.**
+
 ## 2026-10-02
 
 - **Achado 1 (o mais acionável de hoje, não registrado antes; fonte: resumo de busca de matéria sobre o "Instagram Blueprint"/atualizações de 2026 — não consegui abrir a página, confirmação só de resumo): Meta anunciou uma atualização de "freshness" (frescor): o motor de recomendação passou a mostrar cerca de 50% mais Reels de criadores que publicaram naquele mesmo dia.** Distinto do achado de 30% de Reels "de gatilho do dia" já registrado (que é sobre eventos/notícias; este é sobre o dia da postagem em si). -> Acao concreta: manter cadência diária de Reels (mesmo simples) em vez de acumular vários e postar de uma vez; testar postar todo dia por 2 semanas e comparar alcance em não-seguidores.
