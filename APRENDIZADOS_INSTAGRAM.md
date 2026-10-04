@@ -66,6 +66,11 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-04
+
+- **Achado 1 (formato de Reel em alta nunca registrado; fonte: resumos de busca de Newengen/Mean.ceo/Later, semana de 04/10/2026 e página de template — não abri as páginas, confirmação só de resumo): "Some people call me…", baseado em "Summer Love" (Justin Timberlake). Estrutura: "Some people call me [nome]" / "Some people call me [apelido]" / "mas você pode me chamar quando quiser [especialidade]". Funciona para marca pessoal e negócio porque une personalidade e chamada clara.** -> Acao concreta: adaptar em PT-BR para o Instituto do Seguro (ex.: "Uns me chamam de [nome], outros de 'o cara do seguro' — mas me chama quando o sinistro for negado"), Reel curto de 7-10s com texto na tela e o áudio em alta; testar como Trial Reel.
+- **Confirmação (sem mudança de ranqueamento): nenhuma alteração formal de algoritmo para outubro/2026 verificada; Mosseri segue citando watch time, curtidas por alcance e sends por alcance. Demais itens vistos hoje (Your Algorithm no feed, nova regra de views, limite de 5 hashtags, frescor de 50%, Collab, SEO por palavra-chave) já estão registrados acima.**
+
 ## 2026-10-03
 
 - **Achado 1 (único acionável de hoje; fonte: PetaPixel, 01/10/2026, via resumo de busca — não consegui abrir a página, bloqueada pelo proxy): o Instagram começou a liberar o "Edits Assistant", assistente de IA do app Edits que analisa o desempenho dos Reels do próprio criador e sugere que conteúdo fazer a seguir.** Isso é o lançamento efetivo da ferramenta já anunciada em junho (registrada em 09-02 como anúncio, sem rollout confirmado). Detalhes de disponibilidade por país/conta não verificados. -> Acao concreta: quando aparecer no Edits da conta do Instituto do Seguro, rodar a análise sobre os últimos 10-15 Reels e usar as sugestões só como fonte de pauta, cruzando com retenção e sends do Insights; não aceitar roteiro pronto sem revisar a conformidade (SUSEP/sem promessa de cobertura).
