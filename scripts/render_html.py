@@ -50,12 +50,18 @@ def render(html_path: str, png_path: str, width: int = 1080, height: int = 1350,
             "--hide-scrollbars",
             *extra_flags,
             f"--screenshot={png_path}",
-            f"--window-size={width},{height}",
+            f"--window-size={width},{height + 200}",
             file_url,
         ],
         capture_output=True,
         timeout=30,
     )
+    if os.path.exists(png_path) and os.path.getsize(png_path) >= 500:
+        # headless novo reserva area do viewport: renderiza mais alto e recorta na altura certa
+        from PIL import Image
+        im = Image.open(png_path)
+        if im.size[1] > height:
+            im.crop((0, 0, width, height)).save(png_path)
     if not os.path.exists(png_path) or os.path.getsize(png_path) < 500:
         raise RuntimeError(
             f"Renderização falhou ou gerou arquivo vazio/corrompido: {png_path}\n"
