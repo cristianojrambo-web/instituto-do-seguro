@@ -66,6 +66,10 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-07
+
+- **Confirmação (nada genuinamente novo hoje; fontes: resumos de busca de Fanpage Karma, Pulse Advertising, Heropost, TechRadar, eMarketer, Tubefilter e NetInfluencer — as páginas estão bloqueadas pelo proxy, confirmação só de resumo): todos os itens que apareceram nas buscas já estão registrados acima — prioridade a conteúdo original e penalização de reposts/marca d'água, sends/saves/watch time/profile clicks como sinais centrais, consistência de postagem, Reels de 3 min, carrossel na aba Reels, Trial Reels, Edits/restyle, Instagram Plus (US$ 3,99/mês, Story Spotlight) e Drafts.** -> Acao concreta: nenhuma nova; manter o plano vigente (hook de 1-2 s, conteúdo original, foco em sends e saves, cadência consistente).
+
 ## 2026-10-06
 
 - **Achado 1 (lacuna real do arquivo, nenhuma entrada cobre; fonte: resumos de busca de Mosseri/@instagramcreators, Social Media Today e Jenn's Trends — não consegui abrir as páginas; o anúncio é de fim de 2024, não é novidade de hoje): carrossel ou foto COM MÚSICA fica elegível para aparecer na aba Reels, alcançando não seguidores. Mosseri também diz que carrossel tende a ter mais alcance que foto única.** Combina com o dado já registrado de que carrossel tem mais engajamento por pessoa alcançada. -> Acao concreta: nos carrosséis do Instituto do Seguro, sempre adicionar uma faixa de música da biblioteca do Instagram (baixo volume, sem áudio de gravadora fora da biblioteca) e acompanhar se o alcance a não seguidores sobe em relação aos carrosséis sem música.
