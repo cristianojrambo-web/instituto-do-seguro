@@ -66,6 +66,11 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-08
+
+- **Achado 1 (único item não registrado, baixa confiança; fonte: resumo de busca da página "Updated for October 2026" da NapoleonCat — não consegui abrir a página, sem data exata de lançamento): recurso de auto-scroll em Reels (o app avança sozinho para o próximo Reel).** -> Acao concreta: se confirmado, o gancho dos 2-3 primeiros segundos e a retenção passam a pesar mais, pois não há swipe ativo do usuário para sinalizar interesse; não mudar o roteiro por causa disso até haver confirmação oficial.
+- **Confirmação (nada genuinamente novo de ranqueamento hoje; fontes: resumos de busca de Fanpage Karma, Pulse Advertising, Heropost, Metricool, Embed Social, Dataslayer e Buffer): prioridade a conteúdo original e penalização de reposts, DM shares/saves/watch time como sinais, Your Algorithm no feed, Reels longos, agendamento de Trial Reels, Instagram Plus (US$ 3,99) e Repost nativo já estão registrados acima. Buscas por tendências de Reels da semana só retornaram listas de 2025 (Buffer), nada novo.**
+
 ## 2026-10-07
 
 - **Confirmação (nada genuinamente novo hoje; fontes: resumos de busca de Fanpage Karma, Pulse Advertising, Heropost, TechRadar, eMarketer, Tubefilter e NetInfluencer — as páginas estão bloqueadas pelo proxy, confirmação só de resumo): todos os itens que apareceram nas buscas já estão registrados acima — prioridade a conteúdo original e penalização de reposts/marca d'água, sends/saves/watch time/profile clicks como sinais centrais, consistência de postagem, Reels de 3 min, carrossel na aba Reels, Trial Reels, Edits/restyle, Instagram Plus (US$ 3,99/mês, Story Spotlight) e Drafts.** -> Acao concreta: nenhuma nova; manter o plano vigente (hook de 1-2 s, conteúdo original, foco em sends e saves, cadência consistente).
