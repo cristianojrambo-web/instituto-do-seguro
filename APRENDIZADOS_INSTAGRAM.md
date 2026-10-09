@@ -66,6 +66,11 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-09
+
+- **Achado 1 (único item novo de hoje, lacuna real: nenhuma entrada trata de Lives; fonte: Social Media Today de 30/09/2026, Relevant Audience, MediaPost e Wersm, via resumo de busca — não consegui abrir as páginas, confirmação só de resumo): o Instagram adicionou o botão "Boost" no compositor de Live, permitindo impulsionar a transmissão como anúncio direto no app, sem passar pelo Gerenciador de Anúncios. Dá para impulsionar antes de entrar ao vivo ou agendar; escolhe-se o público (ou aceita-se a sugestão) e horário de início/fim; a própria Live é o criativo e o anúncio roda no Feed, Stories e Reels apenas durante a transmissão. A Meta recomenda agendar com pelo menos 2 horas de antecedência. Não achei preço, disponibilidade por país nem requisitos.** -> Acao concreta: se o Instituto do Seguro fizer uma Live (ex.: tira-dúvidas sobre sinistro), agendar o Boost com 2h+ de antecedência e divulgar antes em Stories/Reels; sem Live planejada, nenhuma ação.
+- **Confirmação (nada genuinamente novo de ranqueamento ou formato hoje; fontes: resumos de busca de Fanpage Karma, Heropost, Dataslayer, Helpgood, Mlabs e Canaltech): não há nenhuma mudança formal de algoritmo datada de outubro/2026. Originalidade/penalização de reposts, watch time, replays, sends e conversa em DM, Your Algorithm, Instagram Plus, Repost nativo, Instants, legenda por slide em carrossel (rollout de 18/06/2026), Reorder Grid e rótulo AI Creator já estão registrados acima. Buscas por trend de Reels da semana só devolveram material antigo.**
+
 ## 2026-10-08
 
 - **Achado 1 (único item não registrado, baixa confiança; fonte: resumo de busca da página "Updated for October 2026" da NapoleonCat — não consegui abrir a página, sem data exata de lançamento): recurso de auto-scroll em Reels (o app avança sozinho para o próximo Reel).** -> Acao concreta: se confirmado, o gancho dos 2-3 primeiros segundos e a retenção passam a pesar mais, pois não há swipe ativo do usuário para sinalizar interesse; não mudar o roteiro por causa disso até haver confirmação oficial.
