@@ -66,6 +66,11 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-10
+
+- **Confirmação (nada genuinamente novo hoje; fontes: resumos de busca de Fanpage Karma, Heropost, Helpgood, Metricool, Mlabs e Reportei — 4 buscas em inglês e português, sem nenhum item datado de outubro/2026): não há mudança formal de algoritmo nem formato/trend novo. O que apareceu (originalidade e penalização de reposts, watch time, sends/DM shares, Your Algorithm, limite de 5 hashtags, Reels de 3 min, letterbox 5120x1080) já está registrado acima.** -> Acao concreta: nenhuma nova; manter o plano atual (carrosséis e Reels originais, gancho nos 3 primeiros segundos, foco em sends e salvamentos).
+
+
 ## 2026-10-09
 
 - **Achado 1 (único item novo de hoje, lacuna real: nenhuma entrada trata de Lives; fonte: Social Media Today de 30/09/2026, Relevant Audience, MediaPost e Wersm, via resumo de busca — não consegui abrir as páginas, confirmação só de resumo): o Instagram adicionou o botão "Boost" no compositor de Live, permitindo impulsionar a transmissão como anúncio direto no app, sem passar pelo Gerenciador de Anúncios. Dá para impulsionar antes de entrar ao vivo ou agendar; escolhe-se o público (ou aceita-se a sugestão) e horário de início/fim; a própria Live é o criativo e o anúncio roda no Feed, Stories e Reels apenas durante a transmissão. A Meta recomenda agendar com pelo menos 2 horas de antecedência. Não achei preço, disponibilidade por país nem requisitos.** -> Acao concreta: se o Instituto do Seguro fizer uma Live (ex.: tira-dúvidas sobre sinistro), agendar o Boost com 2h+ de antecedência e divulgar antes em Stories/Reels; sem Live planejada, nenhuma ação.
