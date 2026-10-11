@@ -66,6 +66,12 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-11
+
+- **Achado 1 (dado de benchmark nunca registrado; fonte: resumo de busca de guia do Sebrae PR "Estratégia de crescimento orgânico no Instagram: o guia de 2026" — não consegui abrir a página, confirmação só de resumo; guia publicado entre fev e abr/2026, não é novidade de hoje): o alcance orgânico médio no Instagram caiu 12% ano contra ano, e o guia atribui isso à "atualidade" como nova moeda (mais Reels de quem postou no mesmo dia).** -> Acao concreta: não tratar queda de alcance isolada como problema da conta; comparar sempre com a própria média das últimas 4-6 semanas e manter postagem diária.
+- **Achado 2 (benchmark; fonte: resumo de busca da Social Insider, Benchmarks de engajamento orgânico no Instagram 2026 — página não aberta): carrossel é o formato mais resiliente, com taxa de engajamento estável em ~0,55%, enquanto Reels "já são essenciais, mas não garantem mais ganho extra".** -> Acao concreta: usar 0,55% como referência mínima para os carrosséis do Instituto do Seguro no Insights; Reels continuam para descoberta, carrossel para engajamento e saves.
+- **Confirmação (nada genuinamente novo de algoritmo/formato hoje; fontes: resumos de busca de Fanpage Karma, Heropost, Helpgood, Sebrae PR): sem anúncio formal de outubro/2026. Originalidade/penalização de reposts, watch time, sends e teste do filtro "Mais recentes/Mais vistos" nos Reels já estão registrados acima.**
+
 ## 2026-10-10
 
 - **Confirmação (nada genuinamente novo hoje; fontes: resumos de busca de Fanpage Karma, Heropost, Helpgood, Metricool, Mlabs e Reportei — 4 buscas em inglês e português, sem nenhum item datado de outubro/2026): não há mudança formal de algoritmo nem formato/trend novo. O que apareceu (originalidade e penalização de reposts, watch time, sends/DM shares, Your Algorithm, limite de 5 hashtags, Reels de 3 min, letterbox 5120x1080) já está registrado acima.** -> Acao concreta: nenhuma nova; manter o plano atual (carrosséis e Reels originais, gancho nos 3 primeiros segundos, foco em sends e salvamentos).
