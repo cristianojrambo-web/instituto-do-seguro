@@ -66,6 +66,12 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-12
+
+- **Achado 1 (dado de benchmark, baixa confiança; fonte: resumo de busca da Metricool, "Algoritmo do Instagram em 2026" — não abri a página): posts com hashtags tiveram em média 32% menos visualizações e 34% menos interações que posts sem hashtags, e o algoritmo passou a indexar palavras-chave da legenda.** Complementa o limite de 5 hashtags e o SEO por palavra-chave já registrados, mas com número comparativo. -> Acao concreta: testar por 2 semanas posts sem hashtags (ou no máximo 1-2) com palavra-chave natural na primeira linha da legenda (ex.: "seguro auto", "sinistro negado") e comparar alcance a não seguidores; correlação, não causalidade comprovada.
+- **Achado 2 (ideia não lançada, registrada por completude; fonte: Social Media Today, Social Samosa e Tecnoblog via resumo, ago/2025): Mosseri disse que levaria à equipe a ideia de contar screenshots (prints) como métrica de engajamento; não achei lançamento.** -> Acao concreta: nenhuma; salvamento e envio seguem como sinais de ação.
+- **Confirmação (nada genuinamente novo de algoritmo/formato hoje; fontes: resumos de busca de Fanpage Karma, Heropost, Pulse Advertising, Helpgood, NapoleonCat, Metricool): não há anúncio formal datado de outubro/2026. Originalidade/reposts, Your Algorithm, Series, Add Products, Boost em Live, Reorder Grid e First Draft já estão registrados acima.**
+
 ## 2026-10-11
 
 - **Achado 1 (dado de benchmark nunca registrado; fonte: resumo de busca de guia do Sebrae PR "Estratégia de crescimento orgânico no Instagram: o guia de 2026" — não consegui abrir a página, confirmação só de resumo; guia publicado entre fev e abr/2026, não é novidade de hoje): o alcance orgânico médio no Instagram caiu 12% ano contra ano, e o guia atribui isso à "atualidade" como nova moeda (mais Reels de quem postou no mesmo dia).** -> Acao concreta: não tratar queda de alcance isolada como problema da conta; comparar sempre com a própria média das últimas 4-6 semanas e manter postagem diária.
