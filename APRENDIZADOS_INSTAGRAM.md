@@ -66,6 +66,13 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-13
+
+- **Achado 1 (feature nova, nunca registrada; fonte: Social Media Today, tópico Instagram, 07/10/2026 — via resumo de busca, não abri a matéria): o app Edits da Meta ganhou ferramentas para editar carrosséis (layout, fontes e overlays), aplicando recursos de edição de vídeo a carrosséis.** -> Acao concreta: testar montar o carrossel de seguro (capa + slides de texto) no Edits com fonte/overlay padronizados para manter identidade visual; sem promessa de ganho de alcance.
+- **Achado 2 (teste de plataforma, nunca registrado; fonte: Social Media Today, 05/10/2026 — via resumo): o Instagram testa abrir o app direto na aba Reels, em linha com a migração de foco para longe dos Stories.** -> Acao concreta: reforçar que o primeiro contato de quem não nos segue tende a ser o Reel; garantir gancho nos 3 primeiros segundos e perfil claro; priorizar Reels sobre Stories no esforço de produção.
+- **Achado 3 (teste, registrado por completude; fonte: Social Media Today, 04/10/2026 — via resumo): o Instagram testa um modo "somente leitura" que permite ver perfis sem curtir, comentar, mandar DM ou seguir.** -> Acao concreta: nenhuma por ora; se lançar, curtidas/follows de visitantes anônimos podem cair, então acompanhar sends e saves como métricas principais.
+- **Confirmação:** sem anúncio formal de algoritmo para outubro/2026; originalidade, Your Algorithm e Patient Zero já estão registrados acima.
+
 ## 2026-10-12
 
 - **Achado 1 (dado de benchmark, baixa confiança; fonte: resumo de busca da Metricool, "Algoritmo do Instagram em 2026" — não abri a página): posts com hashtags tiveram em média 32% menos visualizações e 34% menos interações que posts sem hashtags, e o algoritmo passou a indexar palavras-chave da legenda.** Complementa o limite de 5 hashtags e o SEO por palavra-chave já registrados, mas com número comparativo. -> Acao concreta: testar por 2 semanas posts sem hashtags (ou no máximo 1-2) com palavra-chave natural na primeira linha da legenda (ex.: "seguro auto", "sinistro negado") e comparar alcance a não seguidores; correlação, não causalidade comprovada.
