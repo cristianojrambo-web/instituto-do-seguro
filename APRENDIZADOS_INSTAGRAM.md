@@ -66,6 +66,11 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-14
+
+- **Achado 1 (baixa confiança, nunca registrado; fonte: agregador autobound.ai, evento datado de 22/09/2026 — via resumo de busca, não confirmado em fonte oficial): recurso que permite adicionar posts em que a conta foi marcada à grade principal do perfil.** -> Acao concreta: se estiver disponível no perfil, curar a grade incluindo marcações de parceiros/clientes de boa qualidade como prova social; verificar no app antes de contar com isso.
+- **Confirmação (nada genuinamente novo de algoritmo/formato hoje; fontes: resumos de busca de Fanpage Karma, Pulse Advertising, Socialinsider e Tagembed — 4 buscas):** sem anúncio formal de algoritmo para outubro/2026; benchmark Socialinsider (carrosséis ~0,55% de engajamento estável, estáticas -17% a/a, média da plataforma 0,45% no Q2/2026) já registrado em 09/2026; Your Algorithm, originalidade e sends/saves/watch time seguem como sinais já mapeados.
+
 ## 2026-10-13
 
 - **Achado 1 (feature nova, nunca registrada; fonte: Social Media Today, tópico Instagram, 07/10/2026 — via resumo de busca, não abri a matéria): o app Edits da Meta ganhou ferramentas para editar carrosséis (layout, fontes e overlays), aplicando recursos de edição de vídeo a carrosséis.** -> Acao concreta: testar montar o carrossel de seguro (capa + slides de texto) no Edits com fonte/overlay padronizados para manter identidade visual; sem promessa de ganho de alcance.
