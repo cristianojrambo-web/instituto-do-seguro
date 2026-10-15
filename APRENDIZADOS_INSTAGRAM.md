@@ -66,6 +66,10 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-15
+
+- **Confirmação (nada genuinamente novo de algoritmo/formato hoje; fontes: resumos de busca de Fanpage Karma, Pulse Advertising, Heropost, Helpgood, Skedsocial, Inro e Socialinsider — 3 buscas, nenhum item datado de outubro/2026):** sem anúncio formal de mudança de algoritmo nem formato/trend novo. Apareceram apenas itens já registrados (Your Algorithm, originalidade e penalização de reposts/marca d'água, sends/saves/watch time, benchmark de engajamento ~0,45-0,55%, queda de alcance de 12%, isca de engajamento suprimida, frescor/postar diariamente). -> Acao concreta: nenhuma nova; manter o plano atual.
+
 ## 2026-10-14
 
 - **Achado 1 (baixa confiança, nunca registrado; fonte: agregador autobound.ai, evento datado de 22/09/2026 — via resumo de busca, não confirmado em fonte oficial): recurso que permite adicionar posts em que a conta foi marcada à grade principal do perfil.** -> Acao concreta: se estiver disponível no perfil, curar a grade incluindo marcações de parceiros/clientes de boa qualidade como prova social; verificar no app antes de contar com isso.
