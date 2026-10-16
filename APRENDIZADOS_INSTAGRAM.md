@@ -66,6 +66,11 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-16
+
+- **Achado 1 (dado de benchmark, baixa confiança, nunca registrado; fonte: resumo de busca do estudo Metricool 2026 de 24,3M de posts — página não aberta): cerca de 70% das views de um post chegam nos primeiros 3 dias após a publicação.** -> Acao concreta: concentrar o esforço de engajamento (responder comentários, compartilhar nos Stories, pedir envio por DM) nas primeiras 72h de cada post e não esperar resultado tardio de posts antigos; ao avaliar desempenho, comparar posts só depois da janela de 3 dias.
+- **Confirmação (nada genuinamente novo de algoritmo/formato hoje; fontes: resumos de busca de Fanpage Karma, Pulse Advertising, Heropost, Helpgood, New Engen e Inmagic — 4 buscas, nada datado de outubro/2026):** sem anúncio formal de mudança de algoritmo; originalidade e Your Algorithm já registrados acima; formatos citados (photo dump, texto silencioso, antes/depois, "Dear Algorithm") são roundups de março/2026, sem tendência semanal verificável.
+
 ## 2026-10-15
 
 - **Confirmação (nada genuinamente novo de algoritmo/formato hoje; fontes: resumos de busca de Fanpage Karma, Pulse Advertising, Heropost, Helpgood, Skedsocial, Inro e Socialinsider — 3 buscas, nenhum item datado de outubro/2026):** sem anúncio formal de mudança de algoritmo nem formato/trend novo. Apareceram apenas itens já registrados (Your Algorithm, originalidade e penalização de reposts/marca d'água, sends/saves/watch time, benchmark de engajamento ~0,45-0,55%, queda de alcance de 12%, isca de engajamento suprimida, frescor/postar diariamente). -> Acao concreta: nenhuma nova; manter o plano atual.
