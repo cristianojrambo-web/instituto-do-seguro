@@ -66,6 +66,10 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-17
+
+- **Confirmação (nada genuinamente novo de algoritmo/formato hoje; fontes: resumos de busca de Fanpage Karma, Heropost, Pulse Advertising, Helpgood, Hootsuite, PostEverywhere e Vaizle — 3 buscas, nenhum item datado de outubro/2026):** sem anúncio formal de mudança de algoritmo. Apareceram apenas itens já registrados acima: originalidade e penalização de reposts, sends/saves/watch time/profile clicks, Your Algorithm e controles de tópico, Collab, SEO por palavra-chave em vez de hashtags, resposta rápida aos primeiros comentários. Alegações de fornecedores (ex.: "trending audio = +42% de engajamento", pesos tipo "15 likes por DM share") não têm fonte primária e foram descartadas. -> Acao concreta: nenhuma nova; manter o plano atual.
+
 ## 2026-10-16
 
 - **Achado 1 (dado de benchmark, baixa confiança, nunca registrado; fonte: resumo de busca do estudo Metricool 2026 de 24,3M de posts — página não aberta): cerca de 70% das views de um post chegam nos primeiros 3 dias após a publicação.** -> Acao concreta: concentrar o esforço de engajamento (responder comentários, compartilhar nos Stories, pedir envio por DM) nas primeiras 72h de cada post e não esperar resultado tardio de posts antigos; ao avaliar desempenho, comparar posts só depois da janela de 3 dias.
