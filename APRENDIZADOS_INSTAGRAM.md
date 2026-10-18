@@ -66,6 +66,11 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-18
+
+- **Achado 1 (baixa confiança, nunca registrado; fonte: resumo de busca do roundup da Metricool "Instagram Updates & News 2026" — página não aberta, não confirmado em fonte oficial): o app Edits da Meta estaria testando um chatbot de IA que cruza métricas do conteúdo e comentários da audiência para gerar insights.** -> Acao concreta: nenhuma por ora; se chegar à nossa conta, usar para identificar quais temas de seguro geram mais comentários/dúvidas e transformar em pauta, sem tratar como dado oficial até verificar no app.
+- **Confirmação (nada genuinamente novo de algoritmo/formato hoje; fontes: resumos de busca de Fanpage Karma, Heropost, Pulse Advertising, Helpgood, Metricool, Mlabs, SocialBee e Digital Trends — 4 buscas, nada datado de 18/10/2026; a página do Digital Trends sobre ferramenta de referência na tela para recriar Reels virais não abriu e a data é desconhecida):** sem anúncio formal de mudança de algoritmo. Itens que reapareceram já estão registrados acima (originalidade/penalização de reposts, Series, boost de Live, read-only mode, Edits para carrosséis, teste de abrir direto em Reels, hashtags limitadas). -> Acao concreta: nenhuma nova; manter o plano atual.
+
 ## 2026-10-17
 
 - **Confirmação (nada genuinamente novo de algoritmo/formato hoje; fontes: resumos de busca de Fanpage Karma, Heropost, Pulse Advertising, Helpgood, Hootsuite, PostEverywhere e Vaizle — 3 buscas, nenhum item datado de outubro/2026):** sem anúncio formal de mudança de algoritmo. Apareceram apenas itens já registrados acima: originalidade e penalização de reposts, sends/saves/watch time/profile clicks, Your Algorithm e controles de tópico, Collab, SEO por palavra-chave em vez de hashtags, resposta rápida aos primeiros comentários. Alegações de fornecedores (ex.: "trending audio = +42% de engajamento", pesos tipo "15 likes por DM share") não têm fonte primária e foram descartadas. -> Acao concreta: nenhuma nova; manter o plano atual.
