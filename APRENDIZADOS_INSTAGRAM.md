@@ -66,6 +66,11 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-19
+
+- **Achado 1 (dado de benchmark, baixa confiança, nunca registrado; fonte: resumo de busca do relatório "Instagram Reels Statistics 2026" da Influencer Marketing Hub — página não abriu, sem data confirmada): Reels de 45–60 segundos tiveram o maior engajamento e mediana de views numa análise grande; o mesmo resumo diz que carrosséis passam os Reels em engajamento quando a conta ultrapassa 50 mil seguidores, e que o Reel foi o único formato com taxa de engajamento em alta (+24,76% a/a). Outras fontes citam 7–15s como ideal, então os números conflitam.** -> Acao concreta: testar Reels de 45–60s com explicação completa (ex.: "o que a seguradora não te conta") contra versões de 15–20s e comparar watch time e sends; manter carrosséis para saves.
+- **Confirmação (nada genuinamente novo de algoritmo hoje; fontes: resumos de busca de Fanpage Karma, Heropost, Pulse Advertising, Helpgood, WSCubeTech — 3 buscas, nada datado de outubro/2026):** sem anúncio formal de mudança de algoritmo; originalidade/reposts, Your Algorithm, sends/saves/watch time e controle de tópicos no feed de Reels já estão registrados acima.
+
 ## 2026-10-18
 
 - **Achado 1 (baixa confiança, nunca registrado; fonte: resumo de busca do roundup da Metricool "Instagram Updates & News 2026" — página não aberta, não confirmado em fonte oficial): o app Edits da Meta estaria testando um chatbot de IA que cruza métricas do conteúdo e comentários da audiência para gerar insights.** -> Acao concreta: nenhuma por ora; se chegar à nossa conta, usar para identificar quais temas de seguro geram mais comentários/dúvidas e transformar em pauta, sem tratar como dado oficial até verificar no app.
