@@ -66,6 +66,12 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-21
+
+- **Achado 1 (baixa confiança, nunca registrado; fonte: resumo de busca de agregador de novidades do Instagram, citando lançamento em 13/10/2026 — não consegui abrir a página nem confirmar em fonte oficial da Meta): links clicáveis em legendas de posts de feed e Reels, liberados para contas de negócio/criador no plano Meta One Advanced ou superior (pago).** -> Acao concreta: não depende só de decisão de conteúdo — avaliar se o custo do Meta One Advanced compensa para o Instituto do Seguro (link direto para cotação/WhatsApp no Reel, sem passar pela bio); até confirmar em fonte oficial, seguir usando link da bio e CTA por DM/comentário.
+- **Confirmação (nada mais de novo hoje; fontes: resumos de busca, 4 buscas em inglês e português, nada datado de outubro/2026 sobre algoritmo):** sem anúncio formal de mudança de ranqueamento nem trend de Reels novo; Edits (carrosséis), Series, bônus por convite e "Add to grid" já estão registrados acima.
+
+
 ## 2026-10-20
 
 - **Confirmação (nada genuinamente novo de algoritmo/formato hoje; fontes: resumos de busca de Fanpage Karma, Pulse Advertising, Heropost, Helpgood, Social Insider, NapoleonCat, PetaPixel, CBC — 4 buscas, nada datado de outubro/2026):** sem anúncio formal de mudança de algoritmo nem trend de Reels novo; só itens já registrados (originalidade e penalização de reposts, Your Algorithm, sends/saves/watch time, carrossel ~0,55% de engajamento, marcados na grade, novo wordmark). -> Acao concreta: manter o plano atual.
