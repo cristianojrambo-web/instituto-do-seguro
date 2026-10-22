@@ -66,6 +66,12 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-22
+
+- **Achado 1 (baixa confiança, fonte: resumo de busca do Digital Trends, datado de 15/10/2026 — página não abriu aqui; antes só citada sem detalhe): o Instagram lançou uma ferramenta de "vídeo de referência" na câmera de Reels — um clipe fica na tela enquanto você grava, para recriar um Reel viral/trend seguindo o original. Por ora só no iOS; Android "a caminho".** -> Acao concreta: ao gravar um formato em alta adaptado ao nicho (ex.: debate/skit, "Vale a pena"), usar a referência para copiar o ritmo de cortes e o hook dos 1-2 primeiros segundos; confirmar se o app do Cristiano é iOS antes de contar com isso.
+- **Achado 2 (baixa confiança, fonte: resumo do roundup SocialBee de 19/10/2026, sem fonte oficial): testes de "Sync Video Effects to Music" (efeitos de vídeo sincronizados à batida da música escolhida) e "AI song creator" nas DMs.** -> Acao concreta: nenhuma por ora (sem aplicação direta ao nicho); só observar se chega à conta.
+- **Confirmação:** sem anúncio formal de mudança de algoritmo em outubro/2026; originalidade/penalização de reposts já registrada. Nada mais de novo.
+
 ## 2026-10-21
 
 - **Achado 1 (baixa confiança, nunca registrado; fonte: resumo de busca de agregador de novidades do Instagram, citando lançamento em 13/10/2026 — não consegui abrir a página nem confirmar em fonte oficial da Meta): links clicáveis em legendas de posts de feed e Reels, liberados para contas de negócio/criador no plano Meta One Advanced ou superior (pago).** -> Acao concreta: não depende só de decisão de conteúdo — avaliar se o custo do Meta One Advanced compensa para o Instituto do Seguro (link direto para cotação/WhatsApp no Reel, sem passar pela bio); até confirmar em fonte oficial, seguir usando link da bio e CTA por DM/comentário.
