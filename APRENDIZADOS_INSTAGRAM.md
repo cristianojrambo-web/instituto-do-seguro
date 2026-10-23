@@ -66,6 +66,10 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-23
+
+- **Confirmação (nada genuinamente novo de algoritmo/formato hoje; fontes: resumos de busca de Fanpage Karma, Pulse Advertising, Helpgood, Reportei, Metricool, Sebrae PR — 3 buscas em inglês e português, nada datado de outubro/2026):** sem anúncio formal de mudança de algoritmo nem trend de Reels novo. Só apareceram itens já registrados (penalização de reposts/originalidade, "Your Algorithm", keywords na legenda, teste com não seguidores, sends/saves/watch time). -> Acao concreta: nenhuma nova; manter a rotina atual.
+
 ## 2026-10-22
 
 - **Achado 1 (baixa confiança, fonte: resumo de busca do Digital Trends, datado de 15/10/2026 — página não abriu aqui; antes só citada sem detalhe): o Instagram lançou uma ferramenta de "vídeo de referência" na câmera de Reels — um clipe fica na tela enquanto você grava, para recriar um Reel viral/trend seguindo o original. Por ora só no iOS; Android "a caminho".** -> Acao concreta: ao gravar um formato em alta adaptado ao nicho (ex.: debate/skit, "Vale a pena"), usar a referência para copiar o ritmo de cortes e o hook dos 1-2 primeiros segundos; confirmar se o app do Cristiano é iOS antes de contar com isso.
