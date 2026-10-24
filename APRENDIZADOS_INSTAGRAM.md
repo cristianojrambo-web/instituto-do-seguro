@@ -66,6 +66,14 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-24
+
+- **Achado 1 (confiança média-baixa, nunca registrado; fontes: resumos de busca de Social Media Today e AlmCorp de ~19/10/2026 — página não abriu aqui, sem post oficial confirmado): Mosseri disse (Q&A semanal e post no Threads) que o Instagram precisa de ferramentas mais fortes contra IA que copia o trabalho de criadores; banir conteúdo de IA seria impraticável, então o plano é rótulos automáticos mais visíveis + auto-rotulagem voluntária pelo criador.** -> Acao concreta: manter conteúdo 100% original (roteiro, voz e rosto próprios) e, se usar IA em algo (imagem/voz), rotular voluntariamente; não repostar nem reaproveitar material de terceiros.
+- **Achado 2 (confiança média-baixa, nunca registrado; fonte: resumo de busca do Parasocial Magazine, ~15/10/2026): Mosseri listou numa série de posts quatro princípios de ranqueamento — originalidade, recência, conteúdo de última hora (breaking) e modelos de IA — e pediu que criadores foquem em taxa de engajamento (não em volume bruto).** -> Acao concreta: reagir rápido a notícias do setor de seguros (mudança de regra, reajuste, golpe em alta) com Reel curto nas primeiras horas, e acompanhar engajamento/alcance (não só views) nos Insights.
+- **Achado 3 (irrelevante p/ o nicho, só registro): Instagram "Rings" (prêmio de criadores) volta pelo 2º ano, com Mosseri entre os jurados (resumo de netinfluencer, ~21/10/2026).** -> Acao concreta: nenhuma.
+- **Confirmação:** sem anúncio oficial de mudança de algoritmo em outubro/2026 nem trend novo de Reels; legendas por slide, Your Algorithm e Instagram Plus já estavam registrados.
+
+
 ## 2026-10-23
 
 - **Confirmação (nada genuinamente novo de algoritmo/formato hoje; fontes: resumos de busca de Fanpage Karma, Pulse Advertising, Helpgood, Reportei, Metricool, Sebrae PR — 3 buscas em inglês e português, nada datado de outubro/2026):** sem anúncio formal de mudança de algoritmo nem trend de Reels novo. Só apareceram itens já registrados (penalização de reposts/originalidade, "Your Algorithm", keywords na legenda, teste com não seguidores, sends/saves/watch time). -> Acao concreta: nenhuma nova; manter a rotina atual.
