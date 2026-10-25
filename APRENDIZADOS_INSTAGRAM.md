@@ -66,6 +66,10 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-25
+
+- **Confirmação (nada genuinamente novo de algoritmo/formato hoje; fontes: resumos de busca de Fanpage Karma, Pulse Advertising, Heropost, Helpgood, WSCubeTech, Metricool, Inro — 3 buscas, nada datado de outubro/2026):** sem anúncio formal de mudança de algoritmo nem trend de Reels novo. Só itens já registrados (originalidade/reposts, Your Algorithm, DM shares/saves/watch time, limite de 5 hashtags e queda de alcance de hashtag, imagem única -21,96% a/a, carrossel para saves e Reels para alcance, pergunta gerando mais comentários). Detalhe só no resumo de busca e sem confirmação: áudio em carrossel poderia habilitar distribuição na aba Reels (baixa confiança) -> Acao concreta: nenhuma; testar adicionar áudio em 1 carrossel se o recurso estiver disponível.
+
 ## 2026-10-24
 
 - **Achado 1 (confiança média-baixa, nunca registrado; fontes: resumos de busca de Social Media Today e AlmCorp de ~19/10/2026 — página não abriu aqui, sem post oficial confirmado): Mosseri disse (Q&A semanal e post no Threads) que o Instagram precisa de ferramentas mais fortes contra IA que copia o trabalho de criadores; banir conteúdo de IA seria impraticável, então o plano é rótulos automáticos mais visíveis + auto-rotulagem voluntária pelo criador.** -> Acao concreta: manter conteúdo 100% original (roteiro, voz e rosto próprios) e, se usar IA em algo (imagem/voz), rotular voluntariamente; não repostar nem reaproveitar material de terceiros.
