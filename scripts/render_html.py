@@ -24,7 +24,9 @@ def _find_browser():
             return path, ["--no-sandbox"]
 
     matches = glob.glob("/opt/pw-browsers/chromium*/chrome-linux/chrome") + glob.glob(
-        "/opt/pw-browsers/chromium*/chrome"
+        "/opt/pw-browsers/chromium*/chrome",
+    ) + glob.glob(
+        "/opt/pw-browsers/chromium*/chrome-linux64/chrome"
     )
     if matches:
         return matches[0], ["--no-sandbox"]
