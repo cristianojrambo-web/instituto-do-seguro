@@ -66,6 +66,13 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-26
+
+- **Achado 1 (baixa confiança, nunca registrado aqui; fonte: resumo de busca do Okaz, sem data confirmada): Instagram anunciou "Watch History" para Reels — o usuário revê os Reels já assistidos (janela de ~30 dias, filtro por data ou criador) sem precisar salvar/compartilhar.** -> Acao concreta: nenhuma imediata; sugere que revisitar Reels fica mais fácil, então vale manter Reels com valor de reassistir (ex.: checklists de seguro) e gancho forte.
+- **Achado 2 (baixa confiança, provavelmente antigo — fonte: resumo da PhoneArena, sem data): download de Reels públicos para o rolo da câmera (liberado primeiro nos EUA; o dono da conta pode desativar).** -> Acao concreta: manter o download ativo nos Reels do nicho e colocar marca/@ no vídeo, já que podem circular fora da plataforma (e reposts sem crédito são penalizados).
+- **Achado 3 (benchmark, vendor; fonte: resumo da Social Insider, 2026 Instagram Organic Benchmarks, 35 mi de posts): conclusão de que sucesso depende de escolha estratégica de formato e qualidade, não de volume.** -> Acao concreta: nenhuma nova; reforça priorizar qualidade sobre frequência.
+- **Confirmação:** nenhuma mudança de algoritmo datada de outubro/2026 encontrada (3 buscas); só itens já registrados (originalidade/reposts, Your Algorithm, DM shares/saves/watch time).
+
 ## 2026-10-25
 
 - **Confirmação (nada genuinamente novo de algoritmo/formato hoje; fontes: resumos de busca de Fanpage Karma, Pulse Advertising, Heropost, Helpgood, WSCubeTech, Metricool, Inro — 3 buscas, nada datado de outubro/2026):** sem anúncio formal de mudança de algoritmo nem trend de Reels novo. Só itens já registrados (originalidade/reposts, Your Algorithm, DM shares/saves/watch time, limite de 5 hashtags e queda de alcance de hashtag, imagem única -21,96% a/a, carrossel para saves e Reels para alcance, pergunta gerando mais comentários). Detalhe só no resumo de busca e sem confirmação: áudio em carrossel poderia habilitar distribuição na aba Reels (baixa confiança) -> Acao concreta: nenhuma; testar adicionar áudio em 1 carrossel se o recurso estiver disponível.
