@@ -66,6 +66,11 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-27
+
+- **Achado 1 (confiança média; fontes: resumos de busca de Hollywood Reporter, Dexerto, JustJared e Publish Press de ~26/10/2026 — páginas não abriram aqui): o Instagram começou a testar em 26/10/2026 uma função de vídeo longo chamada "Features": criadores selecionados nos EUA postam vídeos horizontais de até 90 minutos, com Reels curtos apontando para o vídeo completo. Mira podcasters e comediantes; não exige exclusividade no Instagram e mantém acordos de publicidade. Testadores citados: Emma Grede, Monet McMichael, Preston Rakovsky, Donald De La Haye.** -> Acao concreta: nenhuma imediata (teste restrito aos EUA e a criadores selecionados). Reforça o modelo "Reel curto como isca + conteúdo longo completo": se a função chegar ao Brasil, testar cortes de 30-60s de explicações mais longas sobre seguro apontando para o vídeo completo.
+- **Confirmação:** nenhuma mudança formal de algoritmo datada de outubro/2026 (4 buscas). Series, Edits com chatbot e originalidade/reposts já estavam registrados.
+
 ## 2026-10-26
 
 - **Achado 1 (baixa confiança, nunca registrado aqui; fonte: resumo de busca do Okaz, sem data confirmada): Instagram anunciou "Watch History" para Reels — o usuário revê os Reels já assistidos (janela de ~30 dias, filtro por data ou criador) sem precisar salvar/compartilhar.** -> Acao concreta: nenhuma imediata; sugere que revisitar Reels fica mais fácil, então vale manter Reels com valor de reassistir (ex.: checklists de seguro) e gancho forte.
