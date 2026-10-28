@@ -66,6 +66,11 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-28
+
+- **Achado 1 (baixa confiança; fonte: resumo de busca do TabNews/Metricool-tipo, sem data nem post oficial confirmado, páginas não abertas): o Instagram estaria testando um formato de Reel disponível só para seguidores por um período antes de ser liberado ao público geral.** -> Acao concreta: nenhuma imediata; se chegar à conta, publicar nele com CTA para seguidores (salvar/enviar por DM) já que o primeiro sinal virá de quem já nos segue.
+- **Confirmação:** 4 buscas (EN/PT) sem anúncio formal de mudança de algoritmo datado de outubro/2026 nem trend novo de Reels; só itens já registrados (originalidade/reposts, Your Algorithm, watch time/DM, limite de hashtags).
+
 ## 2026-10-27
 
 - **Achado 1 (confiança média; fontes: resumos de busca de Hollywood Reporter, Dexerto, JustJared e Publish Press de ~26/10/2026 — páginas não abriram aqui): o Instagram começou a testar em 26/10/2026 uma função de vídeo longo chamada "Features": criadores selecionados nos EUA postam vídeos horizontais de até 90 minutos, com Reels curtos apontando para o vídeo completo. Mira podcasters e comediantes; não exige exclusividade no Instagram e mantém acordos de publicidade. Testadores citados: Emma Grede, Monet McMichael, Preston Rakovsky, Donald De La Haye.** -> Acao concreta: nenhuma imediata (teste restrito aos EUA e a criadores selecionados). Reforça o modelo "Reel curto como isca + conteúdo longo completo": se a função chegar ao Brasil, testar cortes de 30-60s de explicações mais longas sobre seguro apontando para o vídeo completo.
