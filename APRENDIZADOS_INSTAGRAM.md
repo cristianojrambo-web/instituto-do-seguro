@@ -66,6 +66,13 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-29
+
+- **Achado 1 (baixa confiança; fonte: resumo de busca do Vaizle, blog de tendências, sem data nem confirmação oficial): sons de Reels que passam de ~200 mil usos já teriam concorrência demais para descoberta orgânica; o algoritmo premiaria quem entra cedo na tendência.** -> Acao concreta: ao usar áudio em alta, preferir sons ainda abaixo de ~200 mil usos e testar 1 Reel por semana com áudio emergente, comparando alcance em não seguidores.
+- **Achado 2 (baixa confiança; fonte: resumo de busca do Meet Edgar e blogs de marketing, sem política oficial verificada): rotina manual "5-3-1" (curtir 5 posts, comentar 3 e seguir 1 conta do nicho, 5-10 contas/dia) como tática de crescimento orgânico.** -> Acao concreta: testar por 2 semanas com comentários genuínos (não genéricos) em contas de pais/responsáveis e profissionais do nicho, medindo seguidores novos vs. tempo gasto; evitar volume que pareça automação.
+- **Confirmação:** 4 buscas sem anúncio formal de mudança de algoritmo datado de outubro/2026 nem trend novo de Reels; originalidade/reposts e Your Algorithm já estavam registrados.
+
+
 ## 2026-10-28
 
 - **Achado 1 (baixa confiança; fonte: resumo de busca do TabNews/Metricool-tipo, sem data nem post oficial confirmado, páginas não abertas): o Instagram estaria testando um formato de Reel disponível só para seguidores por um período antes de ser liberado ao público geral.** -> Acao concreta: nenhuma imediata; se chegar à conta, publicar nele com CTA para seguidores (salvar/enviar por DM) já que o primeiro sinal virá de quem já nos segue.
