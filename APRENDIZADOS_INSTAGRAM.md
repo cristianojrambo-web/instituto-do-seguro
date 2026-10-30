@@ -66,6 +66,11 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-30
+
+- **Achado 1 (confiança média; fontes: resumos de busca de TechCrunch 26/10/2026, Variety e The Nightly — páginas não abertas): detalhes novos sobre o "Features" (vídeo horizontal de até 90 min, já registrado em 10-27): a função teria sido testada antes no Brasil, antes do lançamento a criadores selecionados nos EUA; também foi lançado app do Instagram na Apple TV; e o Instagram NÃO anunciou repartição de receita com criadores (diferente do YouTube). Séries (vídeo multi-episódio) estariam em teste nos EUA, Índia e México.** -> Acao concreta: nenhuma imediata; se o Features aparecer na conta (teste no Brasil), publicar 1 vídeo longo explicando um tema de seguro (ex.: como ler apólice) e cortar Reels de 30-60s apontando para ele. Não esperar monetização direta.
+- **Confirmação:** 5 buscas (EN/PT) sem anúncio formal de mudança de algoritmo nem trend novo de Reels em outubro/2026; Your Algorithm, queda de alcance de 12%, sends/saves/watch time e originalidade já estavam registrados.
+
 ## 2026-10-29
 
 - **Achado 1 (baixa confiança; fonte: resumo de busca do Vaizle, blog de tendências, sem data nem confirmação oficial): sons de Reels que passam de ~200 mil usos já teriam concorrência demais para descoberta orgânica; o algoritmo premiaria quem entra cedo na tendência.** -> Acao concreta: ao usar áudio em alta, preferir sons ainda abaixo de ~200 mil usos e testar 1 Reel por semana com áudio emergente, comparando alcance em não seguidores.
