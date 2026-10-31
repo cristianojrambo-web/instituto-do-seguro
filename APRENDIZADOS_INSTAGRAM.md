@@ -66,6 +66,11 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-10-31
+
+- **Confirmação (sem achado novo acionável):** 4 buscas (EN/PT) sobre algoritmo, formatos de Reels em alta e novidades de crescimento orgânico. Só apareceram guias genéricos de 2026 e blogs de tendência (Fanpage Karma, Pulse Advertising, Virlo, New Engen), sem anúncio oficial de mudança de algoritmo em outubro/2026. Os temas encontrados (Your Algorithm, pesos de envios/saves/watch time, Instants, rótulo de IA, Netflix Documentary) já estavam registrados em entradas anteriores. -> Acao concreta: manter o plano atual; revisar o Instagram Creators blog e a conta do Mosseri na próxima semana.
+- **Achado 1 (baixa confiança; fonte: resumo de busca do 8bittoast e blogs de recursos, sem confirmação oficial): Instants teria um modo "Sleep Mode" (silencia 22h-7h) para contas de adolescentes, e ainda estão em teste desenhar em DMs e links em posts do feed.** -> Acao concreta: sem ação agora (público adolescente não é o nosso); só acompanhar se links em posts do feed forem lançados, pois ajudariam a levar tráfego ao WhatsApp/site.
+
 ## 2026-10-30
 
 - **Achado 1 (confiança média; fontes: resumos de busca de TechCrunch 26/10/2026, Variety e The Nightly — páginas não abertas): detalhes novos sobre o "Features" (vídeo horizontal de até 90 min, já registrado em 10-27): a função teria sido testada antes no Brasil, antes do lançamento a criadores selecionados nos EUA; também foi lançado app do Instagram na Apple TV; e o Instagram NÃO anunciou repartição de receita com criadores (diferente do YouTube). Séries (vídeo multi-episódio) estariam em teste nos EUA, Índia e México.** -> Acao concreta: nenhuma imediata; se o Features aparecer na conta (teste no Brasil), publicar 1 vídeo longo explicando um tema de seguro (ex.: como ler apólice) e cortar Reels de 30-60s apontando para ele. Não esperar monetização direta.
