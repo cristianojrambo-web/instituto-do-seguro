@@ -66,6 +66,10 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-11-01
+
+- **Confirmação (sem achado novo acionável):** 3 buscas (algoritmo nov/2026, formatos de Reels em alta, tática de crescimento orgânico). Só guias genéricos de 2026 (Fanpage Karma, Skedsocial, Dash Social, Social Media Today) sem anúncio oficial datado. Itens que reapareceram e já estavam registrados: Your Algorithm, sends/saves/watch time acima de curtidas, originalidade (memo do Mosseri), Trial Reels, reposts em Stories, reset de recomendações. -> Acao concreta: nenhuma nova; manter foco em compartilhamento por DM, retenção e conteúdo original.
+
 ## 2026-10-31
 
 - **Confirmação (sem achado novo acionável):** 4 buscas (EN/PT) sobre algoritmo, formatos de Reels em alta e novidades de crescimento orgânico. Só apareceram guias genéricos de 2026 e blogs de tendência (Fanpage Karma, Pulse Advertising, Virlo, New Engen), sem anúncio oficial de mudança de algoritmo em outubro/2026. Os temas encontrados (Your Algorithm, pesos de envios/saves/watch time, Instants, rótulo de IA, Netflix Documentary) já estavam registrados em entradas anteriores. -> Acao concreta: manter o plano atual; revisar o Instagram Creators blog e a conta do Mosseri na próxima semana.
