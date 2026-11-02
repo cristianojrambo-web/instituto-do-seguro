@@ -66,6 +66,10 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-11-02
+
+- **Confirmação (sem achado novo acionável):** 3 buscas (algoritmo nov/2026, formatos de Reels em alta/anúncios do Mosseri, novidades e alcance orgânico em PT). Nenhum anúncio oficial datado de novembro/2026; só guias genéricos (Fanpage Karma, Pulse Advertising, Helpgood, Sebrae PR, Metricool, Mlabs, Reportei). Itens que reapareceram e já estavam registrados: Your Algorithm e reset de recomendações, DM shares/saves/watch time acima de curtidas, queda de alcance orgânico de ~12% a/a, Reels para alcance e carrossel para saves, reposts em Stories, e o redesenho de navegação com Reels/DMs nas primeiras abas (entrada anterior). -> Acao concreta: nenhuma nova; manter foco em compartilhamento por DM, retenção e conteúdo original.
+
 ## 2026-11-01
 
 - **Confirmação (sem achado novo acionável):** 3 buscas (algoritmo nov/2026, formatos de Reels em alta, tática de crescimento orgânico). Só guias genéricos de 2026 (Fanpage Karma, Skedsocial, Dash Social, Social Media Today) sem anúncio oficial datado. Itens que reapareceram e já estavam registrados: Your Algorithm, sends/saves/watch time acima de curtidas, originalidade (memo do Mosseri), Trial Reels, reposts em Stories, reset de recomendações. -> Acao concreta: nenhuma nova; manter foco em compartilhamento por DM, retenção e conteúdo original.
