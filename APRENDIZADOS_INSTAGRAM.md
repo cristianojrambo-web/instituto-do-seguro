@@ -66,6 +66,12 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-11-03
+
+- **Achado 1 (confiança média; fontes: resumos de busca de The Next Web/Business Insider de 01/11/2026 e Fast Company, páginas não abertas): o Instagram teria oferecido de US$ 50 mil a US$ 500 mil a criadores selecionados (inclusive YouTubers) para publicar vídeo longo no "Features" (horizontal, até 90 min). Mosseri respondeu no Threads que o Features ainda não está lançado por completo, o acesso é gradual e a empresa estuda "várias opções" para pagar criadores de vídeo longo.** -> Acao concreta: nenhuma imediata (nosso nicho não está na lista de convidados); quando o Features abrir para contas comuns, testar 1 vídeo longo explicativo (ex.: "como funciona o seguro X", 8-15 min) reaproveitando roteiro de Reels que já performou.
+- **Achado 2 (confiança média; mesma busca, fonte secundária): Mosseri confirmou que as ferramentas de IA dentro do app (ex.: Muse) passarão a ter assinatura, após usuários baterem limites diários de uso. Também disse que o Instagram NÃO vai banir nem limitar alcance de conteúdo só por ser feito com IA, mas está "muito preocupado" com cópias de criadores por IA e trabalha em mais rótulos de IA.** -> Acao concreta: não depender de IA nativa gratuita no pipeline de produção; manter originalidade/rosto/voz do canal como diferencial, pois cópias de IA são a preocupação declarada da plataforma.
+- **Confirmação:** 5 buscas (EN) sem anúncio formal de mudança de algoritmo em novembro/2026; Your Algorithm, sends/saves/watch time, carrossel de 20 slides, legenda por slide, reordenar carrossel/grid e Add Products já estavam registrados.
+
 ## 2026-11-02
 
 - **Confirmação (sem achado novo acionável):** 3 buscas (algoritmo nov/2026, formatos de Reels em alta/anúncios do Mosseri, novidades e alcance orgânico em PT). Nenhum anúncio oficial datado de novembro/2026; só guias genéricos (Fanpage Karma, Pulse Advertising, Helpgood, Sebrae PR, Metricool, Mlabs, Reportei). Itens que reapareceram e já estavam registrados: Your Algorithm e reset de recomendações, DM shares/saves/watch time acima de curtidas, queda de alcance orgânico de ~12% a/a, Reels para alcance e carrossel para saves, reposts em Stories, e o redesenho de navegação com Reels/DMs nas primeiras abas (entrada anterior). -> Acao concreta: nenhuma nova; manter foco em compartilhamento por DM, retenção e conteúdo original.
