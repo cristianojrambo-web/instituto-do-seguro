@@ -66,6 +66,12 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-11-04
+
+- **Achado 1 (confiança baixa-média; fonte: resumo de busca de agregadores de novidades, ex.: SocialBee/almcorp, páginas não abertas por bloqueio de rede): o Instagram estaria lançando "Clips" como Reels, que permite encadear até 8 clipes de Reels em sequência; o "Series" (agrupar Reels por tema) segue em desenvolvimento.** -> Acao concreta: quando o recurso chegar à nossa conta, testar uma mini-série de 3-4 clipes encadeados (ex.: "golpes do seguro, parte 1-4") para estimular retenção e visita ao perfil; sem ação antes de confirmar disponibilidade.
+- **Confirmação:** 4 buscas (EN) sem anúncio formal de mudança de algoritmo em novembro/2026; Features (90 min), Your Algorithm, Edits/IA, Instants e "Add to grid" já estavam registrados. Trial Reels e "Growth Recommendations" só aparecem em blogs de vendor/spam, não verificados.
+
+
 ## 2026-11-03
 
 - **Achado 1 (confiança média; fontes: resumos de busca de The Next Web/Business Insider de 01/11/2026 e Fast Company, páginas não abertas): o Instagram teria oferecido de US$ 50 mil a US$ 500 mil a criadores selecionados (inclusive YouTubers) para publicar vídeo longo no "Features" (horizontal, até 90 min). Mosseri respondeu no Threads que o Features ainda não está lançado por completo, o acesso é gradual e a empresa estuda "várias opções" para pagar criadores de vídeo longo.** -> Acao concreta: nenhuma imediata (nosso nicho não está na lista de convidados); quando o Features abrir para contas comuns, testar 1 vídeo longo explicativo (ex.: "como funciona o seguro X", 8-15 min) reaproveitando roteiro de Reels que já performou.
