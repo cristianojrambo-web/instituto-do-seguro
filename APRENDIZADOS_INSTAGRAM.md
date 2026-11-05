@@ -66,6 +66,11 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-11-05
+
+- **Achado 1 (baixa confiança; fonte: resumo de busca do Boss Wallah, blog de terceiros, sem anúncio oficial da Meta verificado): regras mais rígidas e rotulagem mais clara para conteúdo promocional/patrocinado em 2026.** -> Acao concreta: sem ação agora; se formos publicar qualquer conteúdo com parceria/indicação paga, usar a etiqueta oficial de "parceria paga" e checar a Central de Ajuda da Meta antes.
+- **Confirmação:** 4 buscas (EN/PT) sem anúncio formal de mudança de algoritmo nem trend novo de Reels em 04-05/11/2026; Your Algorithm, originalidade/reposts, sends/saves/watch time, formatos POV/debate e Trial Reels já estavam registrados.
+
 ## 2026-11-04
 
 - **Achado 1 (confiança baixa-média; fonte: resumo de busca de agregadores de novidades, ex.: SocialBee/almcorp, páginas não abertas por bloqueio de rede): o Instagram estaria lançando "Clips" como Reels, que permite encadear até 8 clipes de Reels em sequência; o "Series" (agrupar Reels por tema) segue em desenvolvimento.** -> Acao concreta: quando o recurso chegar à nossa conta, testar uma mini-série de 3-4 clipes encadeados (ex.: "golpes do seguro, parte 1-4") para estimular retenção e visita ao perfil; sem ação antes de confirmar disponibilidade.
