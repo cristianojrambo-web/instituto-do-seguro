@@ -66,6 +66,12 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-11-06
+
+- **Achado 1 (confiança média; fontes: resumos de busca de Mundo Conectado, AntiHype e TecStudio, datados de 04/11/2026 — páginas não abertas por bloqueio de rede): a Meta começou a liberar "Séries" no Brasil (Instagram e Facebook) a partir de 04/11/2026, de forma gradual e começando por criadores selecionados (ex.: Rafa Tuma e Ana Chiyo).** Até aqui o arquivo só tinha Series como teste global restrito; agora é o primeiro registro de chegada ao mercado brasileiro. O criador encadeia Reels novos ou antigos numa série com página própria numa aba do perfil, episódios em ordem e retomada do ponto onde o espectador parou. Relatos divergem: um perfil comum ainda não vê o botão de criar série. -> Acao concreta: já deixar os pilares do Instituto do Seguro organizados em sequências numeradas (ex.: "Seguro de vida em 5 passos") com títulos/capas padronizados, para converter em Série assim que o botão aparecer na conta; checar semanalmente em Perfil > Criar.
+- **Achado 2 (confiança baixa-média; fonte: resumo de busca do SocialPilot): áudio em alta no início de novembro — músicas de fim de ano começando a ganhar Reels e "November Rain" (Guns N' Roses) como som do mês.** -> Acao concreta: sem ação prioritária (nicho de seguros não depende de áudio em alta); se usar áudio de tendência, mantê-lo baixo sob a fala e só se couber no tom do conteúdo.
+- **Confirmação:** nenhum anúncio formal de mudança de algoritmo datado de novembro/2026 (5 buscas); Your Algorithm, Instants, reorder grid, Features 90 min e Edits com IA já estavam registrados.
+
 ## 2026-11-05
 
 - **Achado 1 (baixa confiança; fonte: resumo de busca do Boss Wallah, blog de terceiros, sem anúncio oficial da Meta verificado): regras mais rígidas e rotulagem mais clara para conteúdo promocional/patrocinado em 2026.** -> Acao concreta: sem ação agora; se formos publicar qualquer conteúdo com parceria/indicação paga, usar a etiqueta oficial de "parceria paga" e checar a Central de Ajuda da Meta antes.
