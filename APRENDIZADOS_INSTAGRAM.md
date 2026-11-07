@@ -66,6 +66,11 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-11-07
+
+- **Confirmação (sem achado novo acionável):** 4 buscas (EN/PT: algoritmo nov/2026, formatos de Reels em alta/Mosseri, novidades Meta do dia). Nenhum anúncio oficial datado de 06-07/11/2026. Só reapareceram itens já registrados: Features (90 min), Your Algorithm, sends/saves/watch time acima de curtidas, carrosséis e envios (Mosseri), Series/Clips, Trial Reels. -> Acao concreta: nenhuma nova; manter o plano atual (qualidade, carrosséis salváveis/enviáveis, CTA de envio por DM).
+
+
 ## 2026-11-06
 
 - **Achado 1 (confiança média; fontes: resumos de busca de Mundo Conectado, AntiHype e TecStudio, datados de 04/11/2026 — páginas não abertas por bloqueio de rede): a Meta começou a liberar "Séries" no Brasil (Instagram e Facebook) a partir de 04/11/2026, de forma gradual e começando por criadores selecionados (ex.: Rafa Tuma e Ana Chiyo).** Até aqui o arquivo só tinha Series como teste global restrito; agora é o primeiro registro de chegada ao mercado brasileiro. O criador encadeia Reels novos ou antigos numa série com página própria numa aba do perfil, episódios em ordem e retomada do ponto onde o espectador parou. Relatos divergem: um perfil comum ainda não vê o botão de criar série. -> Acao concreta: já deixar os pilares do Instituto do Seguro organizados em sequências numeradas (ex.: "Seguro de vida em 5 passos") com títulos/capas padronizados, para converter em Série assim que o botão aparecer na conta; checar semanalmente em Perfil > Criar.
