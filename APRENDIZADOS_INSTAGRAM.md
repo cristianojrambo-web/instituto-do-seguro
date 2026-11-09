@@ -66,6 +66,11 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-11-09
+- **Achado 1 (confiança baixa; fonte: resumo de busca de um roundup de novidades do Instagram, ~07/11/2026, página não aberta, sem confirmação oficial): o recurso "Shots" estaria sendo liberado para mais regiões.** Não há detalhe verificado do que é nem se chega ao Brasil. -> Acao concreta: nenhuma agora; só conferir no app se aparece algo novo na conta e registrar se confirmado por fonte oficial.
+- **Confirmação (sem outro achado novo acionável):** 4 buscas (EN: algoritmo nov/2026, formatos de Reels/Mosseri, novidades e crescimento orgânico, rollouts da semana). Nenhum anúncio oficial datado de 08-09/11/2026. Reapareceram só itens já registrados: Your Algorithm (agora citado como chegando a todos os usuários de língua inglesa), Features (90 min), desenhar/figurinhas em DMs, Shareable Insights no Edits, Trial Reels, reordenar grid, pesos de sends/saves/watch time e originalidade.
+
+
 ## 2026-11-08
 - **Confirmação (sem achado novo acionável):** 4 buscas (EN/PT: algoritmo nov/2026, formatos de Reels/Mosseri, novidades de criadores). Nenhum anúncio oficial datado de 07-08/11/2026. Só reapareceram itens já registrados: Features (90 min, Brasil e EUA), Series, Your Algorithm/Reset Suggested Content, sends per reach e carrosséis (Mosseri), retenção/replays acima de curtidas, Trial Reels. -> Acao concreta: nenhuma nova; manter o plano atual (retenção nos primeiros segundos, carrosséis salváveis/enviáveis, CTA de envio por DM).
 
