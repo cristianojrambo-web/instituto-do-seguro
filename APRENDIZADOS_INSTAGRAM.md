@@ -66,6 +66,12 @@ Fontes: [Favikon — top influenciadores financeiros Brasil](https://www.favikon
 
 <!-- Novas entradas da rotina diária entram abaixo desta linha, mais recente no topo -->
 
+## 2026-11-11
+- **Achado 1 (confiança baixa; fonte: resumo de busca do Virlo, "What's Trending on Instagram in October 2026" — página não abriu por bloqueio de rede): dois formatos ainda não registrados aqui. (a) Rejeição "deadpan" do tipo "wtf is..." — a pessoa reage com cara séria e tom seco a uma tendência popular e a descarta; (b) carrossel com estética de "scrapbook" (recortes, colagem, papel), descrito como em formação, ainda não viral.** -> Acao concreta: (a) testar 1 Reel "deadpan" no pilar Mito ou Verdade, reagindo seco a uma "dica" popular errada sobre seguro (ex.: "seguro de carro cobre tudo") antes de explicar a regra; (b) testar 1 carrossel salvável (checklist de apólice) com visual de colagem/recorte e comparar saves com o carrossel padrão.
+- **Achado 2 (só registro, sazonal e já passou): o "ghost photoshoot" (lençol branco + óculos escuros) voltou em outubro, mas é uma tendência recorrente de Halloween (TikTok 2020/2023, fonte: Know Your Meme).** -> Acao concreta: nenhuma; só vale guardar para out/2027 se fizer sentido no tom do canal.
+- **Confirmação:** 5 buscas (EN/PT: novidades de 10/11/2026, anúncios do Mosseri na semana, novidades de Reels em PT, formatos virais de novembro). Nenhum anúncio oficial datado de 10-11/11/2026. Só reapareceram itens já registrados: Features (90 min), Series, Story Extend/Instagram Plus, Instants, reordenar grid, desenhar em DMs, assistente de IA no Edits, Your Algorithm. O guia de novembro da MEAN CEO só repete o que já está aqui (Reels buscáveis, carrosséis salváveis, resposta rápida, conversão por DM) e a página não abriu.
+
+
 ## 2026-11-10
 - **Confirmação (sem achado novo acionável):** 3 buscas (EN: algoritmo nov/2026, formatos de Reels/Mosseri, novidades de carrossel/Reels e crescimento orgânico). Nenhum anúncio oficial datado de 09-10/11/2026. Só reapareceram itens já registrados: Your Algorithm/Reset Suggested Content, sends per reach e carrosséis (Mosseri), reordenar carrossel após publicar, legenda por slide, Trial Reels agendáveis, queda de alcance para conteúdo não original. Fontes são blogs de marketing, sem confirmação oficial. -> Acao concreta: nenhuma nova.
 
